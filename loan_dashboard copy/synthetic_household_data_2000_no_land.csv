@@ -1,0 +1,2001 @@
+ID,utility_payment_regularity,avg_monthly_utility_spend,mobile_recharge_pattern,household_deprivation_score,housing_type,asset_ownership_count,household_size_to_earners_ratio,primary_income_source
+1,Regular,890,Bi-weekly,35.4,Pucca,5,1.5,Daily Wage
+2,Irregular,1261,Weekly,24.9,Pucca,5,1.0,Business
+3,Regular,746,Ad-hoc,41.6,Pucca,5,1.5,Daily Wage
+4,Regular,1373,Weekly,16.0,Pucca,9,1.7,Salaried
+5,Irregular,492,Monthly,55.0,Kutcha,6,2.3,Business
+6,Regular,1151,Weekly,11.1,Pucca,10,1.5,Business
+7,Regular,819,Ad-hoc,51.0,Semi-pucca,4,2.0,Daily Wage
+8,Regular,1235,Weekly,17.7,Pucca,7,1.7,Salaried
+9,Regular,920,Bi-weekly,19.8,Semi-pucca,9,2.0,Business
+10,Regular,1132,Monthly,37.6,Semi-pucca,7,1.5,Agriculture
+11,Irregular,907,Ad-hoc,54.3,Semi-pucca,5,2.0,Daily Wage
+12,Regular,1573,Weekly,8.5,Pucca,7,1.3,Pension
+13,Defaulted,1104,Ad-hoc,35.8,Kutcha,5,1.6,Agriculture
+14,Regular,996,Bi-weekly,27.3,Semi-pucca,7,1.7,Business
+15,Regular,1102,Weekly,13.4,Semi-pucca,9,1.3,Salaried
+16,Irregular,952,Ad-hoc,35.3,Pucca,7,2.0,Agriculture
+17,Irregular,1559,Monthly,13.3,Pucca,9,1.3,Business
+18,Regular,1047,Bi-weekly,32.6,Pucca,7,2.0,Agriculture
+19,Regular,1230,Bi-weekly,16.6,Pucca,8,2.0,Salaried
+20,Regular,1364,Bi-weekly,20.8,Semi-pucca,9,1.3,Salaried
+21,Regular,947,Weekly,26.3,Pucca,8,1.3,Business
+22,Defaulted,1046,Monthly,39.0,Pucca,6,1.8,Agriculture
+23,Regular,1303,Monthly,15.4,Pucca,8,1.7,Salaried
+24,Regular,1197,Ad-hoc,30.6,Pucca,7,1.7,Agriculture
+25,Regular,1295,Monthly,20.3,Pucca,9,1.5,Business
+26,Regular,1189,Bi-weekly,18.4,Semi-pucca,8,1.3,Business
+27,Defaulted,801,Bi-weekly,36.8,Semi-pucca,7,1.3,Daily Wage
+28,Defaulted,1098,Weekly,20.2,Pucca,10,2.0,Salaried
+29,Regular,1312,Bi-weekly,18.6,Pucca,8,1.7,Salaried
+30,Regular,1347,Bi-weekly,28.4,Pucca,6,1.8,Salaried
+31,Regular,1118,Weekly,10.0,Pucca,10,1.0,Salaried
+32,Regular,991,Bi-weekly,20.8,Pucca,6,1.7,Salaried
+33,Defaulted,839,Ad-hoc,31.0,Semi-pucca,6,1.3,Business
+34,Regular,1243,Bi-weekly,4.4,Semi-pucca,10,1.3,Business
+35,Regular,1395,Weekly,12.5,Semi-pucca,9,1.2,Salaried
+36,Regular,1352,Weekly,21.1,Pucca,6,2.0,Salaried
+37,Irregular,714,Ad-hoc,35.8,Kutcha,6,1.5,Daily Wage
+38,Defaulted,513,Ad-hoc,65.2,Kutcha,3,1.7,Agriculture
+39,Regular,1026,Weekly,16.2,Semi-pucca,8,1.5,Salaried
+40,Regular,1202,Bi-weekly,6.9,Pucca,10,1.2,Salaried
+41,Regular,1284,Weekly,7.7,Semi-pucca,10,1.5,Salaried
+42,Regular,1152,Weekly,17.4,Semi-pucca,8,2.0,Business
+43,Irregular,874,Bi-weekly,54.3,Kutcha,4,2.0,Agriculture
+44,Regular,1062,Weekly,6.2,Pucca,8,1.5,Salaried
+45,Regular,1067,Monthly,23.6,Semi-pucca,9,1.7,Salaried
+46,Irregular,1246,Ad-hoc,31.3,Kutcha,8,1.2,Daily Wage
+47,Defaulted,1428,Weekly,15.3,Pucca,8,1.3,Salaried
+48,Defaulted,1207,Ad-hoc,38.7,Semi-pucca,7,1.5,Agriculture
+49,Irregular,922,Ad-hoc,48.5,Kutcha,5,1.5,Business
+50,Regular,1202,Weekly,9.6,Pucca,9,1.3,Pension
+51,Defaulted,1021,Ad-hoc,36.6,Semi-pucca,7,1.7,Business
+52,Regular,1425,Bi-weekly,29.8,Pucca,6,1.8,Business
+53,Regular,1079,Bi-weekly,22.4,Semi-pucca,7,1.0,Salaried
+54,Regular,1475,Bi-weekly,16.4,Pucca,9,1.2,Salaried
+55,Defaulted,551,Bi-weekly,46.1,Semi-pucca,5,2.0,Agriculture
+56,Regular,1371,Weekly,9.8,Pucca,10,1.5,Salaried
+57,Regular,1293,Bi-weekly,17.9,Semi-pucca,10,1.0,Pension
+58,Irregular,1074,Ad-hoc,34.3,Semi-pucca,6,1.7,Daily Wage
+59,Regular,1159,Weekly,27.5,Semi-pucca,5,2.0,Business
+60,Regular,985,Bi-weekly,44.3,Kutcha,3,2.0,Agriculture
+61,Defaulted,1333,Monthly,13.3,Pucca,8,1.3,Business
+62,Irregular,912,Monthly,40.1,Semi-pucca,5,2.0,Daily Wage
+63,Regular,1007,Monthly,32.3,Pucca,7,1.8,Agriculture
+64,Irregular,887,Weekly,29.2,Pucca,7,1.7,Business
+65,Regular,1377,Weekly,11.4,Pucca,7,1.1,Salaried
+66,Irregular,1206,Monthly,34.2,Kutcha,4,1.8,Agriculture
+67,Regular,1457,Bi-weekly,17.0,Semi-pucca,9,1.4,Business
+68,Irregular,403,Monthly,80.1,Semi-pucca,2,1.7,Daily Wage
+69,Regular,1013,Monthly,13.2,Pucca,8,1.0,Salaried
+70,Defaulted,1314,Monthly,12.5,Pucca,7,2.0,Salaried
+71,Regular,867,Ad-hoc,33.7,Semi-pucca,7,2.0,Business
+72,Regular,1442,Monthly,3.4,Pucca,10,1.5,Business
+73,Regular,915,Bi-weekly,15.9,Semi-pucca,9,1.7,Business
+74,Regular,1264,Weekly,26.2,Semi-pucca,6,1.3,Salaried
+75,Regular,1147,Weekly,24.9,Pucca,8,1.3,Salaried
+76,Irregular,1055,Weekly,6.9,Semi-pucca,8,1.1,Salaried
+77,Irregular,937,Monthly,46.0,Pucca,7,3.0,Agriculture
+78,Irregular,817,Ad-hoc,54.1,Semi-pucca,5,2.3,Agriculture
+79,Regular,1186,Monthly,26.1,Pucca,5,1.2,Salaried
+80,Regular,1437,Weekly,6.8,Pucca,9,1.5,Salaried
+81,Regular,1010,Bi-weekly,4.7,Semi-pucca,10,1.5,Salaried
+82,Regular,1194,Bi-weekly,12.7,Pucca,8,1.0,Business
+83,Irregular,1028,Bi-weekly,32.7,Semi-pucca,6,1.5,Agriculture
+84,Regular,1227,Monthly,11.9,Pucca,7,2.0,Salaried
+85,Irregular,1232,Bi-weekly,10.8,Pucca,10,1.0,Salaried
+86,Irregular,1190,Monthly,32.5,Pucca,6,1.8,Daily Wage
+87,Regular,916,Monthly,21.9,Pucca,5,1.3,Salaried
+88,Irregular,1023,Ad-hoc,30.5,Pucca,7,1.3,Business
+89,Regular,926,Monthly,40.4,Pucca,7,2.0,Daily Wage
+90,Irregular,1182,Bi-weekly,18.4,Pucca,8,1.3,Salaried
+91,Regular,1005,Bi-weekly,23.4,Pucca,10,1.5,Salaried
+92,Regular,1507,Weekly,17.5,Semi-pucca,9,1.3,Salaried
+93,Regular,1242,Monthly,26.7,Pucca,8,1.5,Business
+94,Regular,1447,Monthly,23.9,Semi-pucca,7,1.6,Salaried
+95,Regular,1131,Ad-hoc,32.6,Pucca,7,1.5,Daily Wage
+96,Irregular,1018,Ad-hoc,44.3,Semi-pucca,5,1.5,Daily Wage
+97,Regular,975,Ad-hoc,38.6,Pucca,6,1.8,Daily Wage
+98,Regular,1513,Weekly,9.6,Pucca,10,1.0,Business
+99,Regular,1249,Monthly,20.9,Pucca,7,1.7,Business
+100,Regular,1190,Bi-weekly,16.6,Pucca,7,1.6,Business
+101,Regular,1408,Weekly,22.7,Pucca,6,1.3,Salaried
+102,Regular,694,Ad-hoc,47.6,Pucca,8,1.7,Daily Wage
+103,Regular,1170,Bi-weekly,11.6,Semi-pucca,9,1.8,Business
+104,Regular,1604,Weekly,17.2,Pucca,9,1.5,Business
+105,Regular,1228,Bi-weekly,24.1,Pucca,6,2.0,Pension
+106,Regular,815,Bi-weekly,19.7,Pucca,9,1.5,Salaried
+107,Regular,1372,Bi-weekly,15.5,Semi-pucca,8,1.2,Salaried
+108,Irregular,924,Bi-weekly,30.2,Pucca,7,1.6,Agriculture
+109,Irregular,1030,Bi-weekly,26.3,Pucca,6,1.3,Salaried
+110,Regular,1560,Bi-weekly,17.8,Pucca,8,1.5,Salaried
+111,Regular,1553,Monthly,7.1,Pucca,9,1.0,Business
+112,Regular,1274,Ad-hoc,36.8,Semi-pucca,5,1.4,Agriculture
+113,Irregular,1133,Monthly,16.5,Semi-pucca,9,1.2,Business
+114,Irregular,648,Monthly,64.6,Pucca,2,1.5,Daily Wage
+115,Regular,877,Ad-hoc,50.3,Pucca,6,2.0,Agriculture
+116,Regular,1072,Bi-weekly,40.9,Pucca,7,2.0,Agriculture
+117,Defaulted,935,Bi-weekly,37.8,Pucca,5,1.8,Daily Wage
+118,Regular,1134,Bi-weekly,48.1,Pucca,4,2.0,Daily Wage
+119,Irregular,973,Ad-hoc,45.0,Pucca,5,2.0,Daily Wage
+120,Irregular,1262,Bi-weekly,31.5,Pucca,7,1.5,Daily Wage
+121,Irregular,910,Bi-weekly,34.6,Semi-pucca,6,1.3,Business
+122,Regular,748,Monthly,53.9,Pucca,5,2.5,Daily Wage
+123,Regular,1097,Ad-hoc,30.6,Semi-pucca,9,1.5,Business
+124,Irregular,1175,Monthly,14.6,Pucca,8,1.5,Business
+125,Irregular,1049,Monthly,45.2,Pucca,3,2.0,Daily Wage
+126,Irregular,1153,Ad-hoc,36.0,Semi-pucca,7,1.5,Agriculture
+127,Regular,1298,Weekly,6.2,Pucca,10,1.2,Pension
+128,Irregular,1235,Weekly,23.3,Pucca,8,1.3,Salaried
+129,Irregular,1474,Weekly,19.2,Pucca,7,1.0,Business
+130,Irregular,974,Monthly,52.0,Kutcha,5,1.8,Agriculture
+131,Regular,1249,Bi-weekly,22.0,Semi-pucca,6,1.3,Salaried
+132,Regular,1429,Weekly,13.8,Pucca,9,1.4,Salaried
+133,Irregular,1116,Ad-hoc,47.2,Kutcha,4,1.5,Agriculture
+134,Regular,1437,Monthly,15.9,Semi-pucca,8,2.0,Salaried
+135,Regular,1324,Weekly,6.0,Pucca,8,1.5,Business
+136,Regular,1151,Bi-weekly,34.1,Kutcha,7,1.5,Agriculture
+137,Regular,1020,Ad-hoc,30.7,Pucca,6,1.7,Agriculture
+138,Regular,1085,Weekly,27.9,Pucca,7,1.7,Salaried
+139,Regular,1105,Monthly,32.9,Pucca,7,1.3,Daily Wage
+140,Irregular,750,Monthly,40.6,Semi-pucca,5,2.5,Agriculture
+141,Defaulted,1095,Ad-hoc,32.3,Pucca,8,1.5,Agriculture
+142,Regular,1103,Bi-weekly,18.1,Pucca,8,1.5,Salaried
+143,Irregular,1112,Weekly,11.0,Semi-pucca,8,1.3,Business
+144,Regular,1442,Weekly,6.3,Semi-pucca,10,1.2,Salaried
+145,Irregular,935,Bi-weekly,38.9,Kutcha,7,1.5,Agriculture
+146,Regular,1187,Weekly,22.1,Semi-pucca,8,1.6,Salaried
+147,Regular,1179,Bi-weekly,17.1,Semi-pucca,10,1.4,Pension
+148,Regular,1239,Bi-weekly,6.8,Pucca,10,1.8,Salaried
+149,Regular,1189,Weekly,20.6,Pucca,8,1.2,Salaried
+150,Defaulted,814,Monthly,35.9,Semi-pucca,7,1.4,Agriculture
+151,Regular,1037,Monthly,31.7,Semi-pucca,6,1.5,Daily Wage
+152,Regular,1527,Weekly,13.7,Pucca,8,1.3,Salaried
+153,Regular,993,Monthly,21.7,Semi-pucca,8,1.2,Salaried
+154,Regular,1449,Weekly,13.6,Pucca,9,1.3,Salaried
+155,Regular,1622,Weekly,6.4,Pucca,10,1.5,Salaried
+156,Regular,653,Bi-weekly,57.9,Semi-pucca,5,1.3,Agriculture
+157,Regular,1261,Bi-weekly,16.7,Pucca,9,1.5,Business
+158,Irregular,683,Ad-hoc,48.6,Pucca,4,1.5,Business
+159,Regular,951,Weekly,22.3,Pucca,7,1.3,Salaried
+160,Irregular,1012,Monthly,37.3,Pucca,6,1.6,Daily Wage
+161,Regular,1032,Bi-weekly,38.7,Semi-pucca,6,2.0,Business
+162,Regular,1000,Bi-weekly,29.1,Pucca,8,1.3,Business
+163,Defaulted,847,Ad-hoc,35.8,Semi-pucca,5,1.5,Daily Wage
+164,Irregular,884,Ad-hoc,36.9,Pucca,6,1.7,Daily Wage
+165,Regular,1047,Monthly,43.4,Kutcha,7,1.7,Agriculture
+166,Irregular,1460,Monthly,5.9,Pucca,9,1.4,Salaried
+167,Regular,1320,Weekly,15.4,Pucca,9,1.5,Salaried
+168,Regular,585,Ad-hoc,69.1,Kutcha,3,2.5,Agriculture
+169,Regular,1195,Bi-weekly,4.9,Pucca,10,1.5,Salaried
+170,Irregular,1379,Bi-weekly,18.6,Semi-pucca,8,1.4,Salaried
+171,Regular,1331,Weekly,27.2,Pucca,8,3.0,Business
+172,Irregular,972,Monthly,32.2,Pucca,5,1.5,Daily Wage
+173,Irregular,847,Bi-weekly,48.2,Pucca,5,2.0,Daily Wage
+174,Irregular,842,Monthly,32.0,Semi-pucca,7,1.4,Agriculture
+175,Irregular,933,Ad-hoc,49.2,Semi-pucca,6,1.3,Agriculture
+176,Regular,1488,Weekly,18.4,Pucca,10,1.2,Salaried
+177,Regular,1499,Bi-weekly,2.9,Pucca,9,1.2,Pension
+178,Irregular,1227,Ad-hoc,43.8,Kutcha,7,1.0,Agriculture
+179,Regular,1103,Weekly,22.0,Pucca,7,1.4,Salaried
+180,Regular,1076,Weekly,12.7,Semi-pucca,10,1.4,Business
+181,Irregular,992,Ad-hoc,56.2,Semi-pucca,5,2.0,Agriculture
+182,Regular,1275,Bi-weekly,13.5,Semi-pucca,8,1.2,Business
+183,Regular,1066,Weekly,18.9,Pucca,8,1.3,Salaried
+184,Regular,1355,Weekly,27.9,Pucca,7,1.7,Salaried
+185,Regular,1030,Bi-weekly,25.8,Pucca,8,1.4,Salaried
+186,Regular,1054,Bi-weekly,17.1,Kutcha,8,1.3,Salaried
+187,Irregular,1054,Ad-hoc,39.0,Pucca,6,2.0,Agriculture
+188,Irregular,1065,Bi-weekly,13.9,Pucca,10,1.4,Business
+189,Irregular,1030,Ad-hoc,46.6,Semi-pucca,5,1.5,Daily Wage
+190,Regular,561,Monthly,61.6,Semi-pucca,5,2.0,Daily Wage
+191,Regular,1097,Ad-hoc,30.7,Semi-pucca,7,1.7,Daily Wage
+192,Regular,1101,Ad-hoc,31.2,Semi-pucca,9,2.0,Agriculture
+193,Regular,1288,Weekly,13.5,Pucca,8,1.2,Salaried
+194,Irregular,423,Ad-hoc,72.4,Kutcha,2,3.0,Daily Wage
+195,Irregular,1241,Weekly,11.9,Semi-pucca,10,1.4,Business
+196,Irregular,1278,Weekly,28.5,Semi-pucca,7,2.0,Salaried
+197,Regular,805,Ad-hoc,51.4,Semi-pucca,7,1.7,Daily Wage
+198,Regular,1066,Weekly,15.6,Semi-pucca,10,1.2,Business
+199,Regular,1051,Weekly,26.1,Pucca,7,1.4,Salaried
+200,Regular,1070,Bi-weekly,14.0,Pucca,6,1.7,Salaried
+201,Irregular,667,Monthly,38.8,Kutcha,6,2.0,Daily Wage
+202,Irregular,864,Ad-hoc,46.4,Pucca,5,1.8,Agriculture
+203,Regular,1272,Weekly,12.8,Pucca,10,1.3,Business
+204,Regular,1437,Weekly,5.5,Semi-pucca,10,1.5,Pension
+205,Defaulted,1446,Weekly,1.7,Semi-pucca,9,1.0,Salaried
+206,Regular,1310,Bi-weekly,15.9,Pucca,9,2.0,Salaried
+207,Regular,1100,Bi-weekly,26.7,Semi-pucca,8,1.5,Business
+208,Regular,1115,Ad-hoc,53.0,Semi-pucca,6,1.7,Agriculture
+209,Defaulted,944,Ad-hoc,30.7,Pucca,8,1.4,Agriculture
+210,Irregular,1080,Weekly,25.0,Semi-pucca,5,2.0,Business
+211,Regular,1188,Ad-hoc,40.4,Semi-pucca,6,1.7,Daily Wage
+212,Defaulted,938,Bi-weekly,37.0,Pucca,5,1.5,Agriculture
+213,Regular,1141,Weekly,22.1,Pucca,8,1.5,Salaried
+214,Regular,1356,Bi-weekly,9.1,Pucca,10,1.3,Business
+215,Irregular,1094,Monthly,42.6,Semi-pucca,6,1.8,Daily Wage
+216,Irregular,1081,Monthly,30.8,Semi-pucca,8,2.5,Daily Wage
+217,Regular,1180,Weekly,8.7,Semi-pucca,10,1.0,Salaried
+218,Irregular,990,Ad-hoc,32.0,Pucca,5,1.6,Business
+219,Regular,1285,Weekly,17.2,Semi-pucca,5,1.2,Salaried
+220,Regular,782,Ad-hoc,52.4,Pucca,5,3.0,Daily Wage
+221,Regular,1176,Weekly,14.4,Pucca,8,1.2,Salaried
+222,Regular,788,Ad-hoc,43.7,Kutcha,4,2.0,Agriculture
+223,Regular,948,Ad-hoc,56.2,Pucca,2,2.0,Business
+224,Regular,1158,Bi-weekly,20.4,Pucca,7,1.4,Salaried
+225,Regular,1092,Bi-weekly,26.5,Pucca,7,1.4,Salaried
+226,Defaulted,1117,Ad-hoc,34.3,Semi-pucca,7,3.0,Daily Wage
+227,Regular,870,Monthly,30.8,Semi-pucca,7,1.5,Daily Wage
+228,Regular,1319,Bi-weekly,7.8,Pucca,10,1.3,Business
+229,Regular,1386,Weekly,20.4,Pucca,7,1.5,Salaried
+230,Defaulted,876,Ad-hoc,46.8,Pucca,6,2.0,Daily Wage
+231,Regular,1183,Bi-weekly,22.4,Pucca,8,1.2,Business
+232,Defaulted,806,Ad-hoc,56.4,Pucca,5,2.0,Agriculture
+233,Irregular,1044,Bi-weekly,45.8,Semi-pucca,5,1.5,Daily Wage
+234,Irregular,1176,Monthly,22.9,Semi-pucca,9,1.5,Salaried
+235,Regular,1532,Weekly,19.4,Semi-pucca,8,1.2,Business
+236,Irregular,1306,Bi-weekly,11.4,Pucca,8,1.5,Salaried
+237,Regular,1208,Weekly,11.9,Pucca,9,1.3,Salaried
+238,Irregular,1364,Bi-weekly,22.4,Pucca,7,1.5,Business
+239,Regular,1178,Bi-weekly,17.5,Semi-pucca,9,1.5,Salaried
+240,Regular,1054,Weekly,23.8,Kutcha,6,1.6,Business
+241,Irregular,751,Ad-hoc,43.8,Pucca,6,2.0,Daily Wage
+242,Irregular,1131,Monthly,30.5,Semi-pucca,7,1.7,Daily Wage
+243,Irregular,883,Ad-hoc,41.1,Pucca,6,1.3,Business
+244,Regular,1028,Bi-weekly,23.8,Pucca,9,1.3,Salaried
+245,Irregular,984,Bi-weekly,30.6,Pucca,8,1.3,Agriculture
+246,Irregular,1102,Bi-weekly,22.4,Pucca,8,1.5,Salaried
+247,Regular,1265,Bi-weekly,22.8,Pucca,8,1.5,Salaried
+248,Irregular,806,Monthly,60.1,Pucca,4,2.0,Agriculture
+249,Irregular,1175,Monthly,18.6,Pucca,9,1.2,Salaried
+250,Irregular,1113,Ad-hoc,33.2,Pucca,4,1.3,Agriculture
+251,Regular,1216,Weekly,15.4,Pucca,8,1.2,Salaried
+252,Defaulted,780,Bi-weekly,59.0,Pucca,2,1.7,Agriculture
+253,Regular,1157,Bi-weekly,13.6,Pucca,10,1.3,Business
+254,Regular,1148,Weekly,14.5,Pucca,8,1.7,Salaried
+255,Defaulted,904,Bi-weekly,47.0,Pucca,5,1.7,Daily Wage
+256,Defaulted,1039,Bi-weekly,34.7,Semi-pucca,8,1.7,Daily Wage
+257,Regular,1294,Bi-weekly,22.4,Pucca,8,1.3,Salaried
+258,Regular,1051,Ad-hoc,38.1,Semi-pucca,5,1.5,Business
+259,Regular,1053,Weekly,25.3,Pucca,7,1.3,Salaried
+260,Regular,1009,Bi-weekly,19.2,Pucca,8,1.7,Salaried
+261,Regular,1284,Monthly,21.8,Semi-pucca,6,1.5,Business
+262,Regular,844,Ad-hoc,54.7,Pucca,4,2.0,Daily Wage
+263,Regular,1060,Ad-hoc,43.2,Semi-pucca,5,1.5,Daily Wage
+264,Regular,1092,Ad-hoc,33.8,Pucca,6,2.0,Daily Wage
+265,Regular,1344,Weekly,28.0,Pucca,5,1.7,Salaried
+266,Irregular,1144,Weekly,20.5,Pucca,9,1.0,Salaried
+267,Irregular,1188,Weekly,19.8,Pucca,8,1.3,Salaried
+268,Irregular,1048,Ad-hoc,42.0,Semi-pucca,6,1.6,Agriculture
+269,Regular,1416,Monthly,9.5,Semi-pucca,10,1.3,Salaried
+270,Regular,1370,Weekly,6.8,Pucca,8,1.4,Business
+271,Irregular,766,Monthly,37.3,Semi-pucca,7,2.0,Agriculture
+272,Regular,952,Bi-weekly,18.1,Pucca,8,1.3,Salaried
+273,Irregular,830,Monthly,46.9,Kutcha,4,1.7,Daily Wage
+274,Regular,917,Monthly,44.2,Semi-pucca,6,1.6,Daily Wage
+275,Regular,838,Weekly,27.3,Pucca,9,1.7,Pension
+276,Regular,909,Ad-hoc,44.2,Kutcha,6,2.0,Daily Wage
+277,Regular,994,Monthly,45.1,Semi-pucca,7,1.5,Business
+278,Irregular,825,Ad-hoc,51.4,Kutcha,4,1.5,Daily Wage
+279,Regular,1222,Weekly,19.8,Semi-pucca,6,1.4,Pension
+280,Regular,1420,Bi-weekly,5.6,Pucca,10,1.5,Business
+281,Regular,1161,Weekly,1.3,Semi-pucca,10,1.3,Salaried
+282,Irregular,1004,Monthly,44.2,Pucca,7,1.8,Daily Wage
+283,Defaulted,1015,Weekly,25.6,Pucca,7,1.5,Salaried
+284,Regular,1234,Weekly,12.0,Pucca,7,2.0,Salaried
+285,Regular,987,Bi-weekly,29.1,Semi-pucca,6,1.5,Salaried
+286,Irregular,1277,Weekly,24.8,Pucca,5,1.2,Salaried
+287,Regular,935,Monthly,27.3,Pucca,7,1.3,Business
+288,Regular,1339,Weekly,23.1,Semi-pucca,10,1.3,Salaried
+289,Regular,1297,Bi-weekly,39.8,Pucca,6,1.5,Daily Wage
+290,Regular,1047,Monthly,12.3,Pucca,9,1.0,Business
+291,Regular,1049,Weekly,24.4,Pucca,9,1.4,Pension
+292,Regular,1299,Weekly,16.9,Pucca,8,1.5,Business
+293,Defaulted,861,Bi-weekly,36.3,Semi-pucca,9,2.0,Daily Wage
+294,Regular,1186,Bi-weekly,15.9,Pucca,10,1.5,Salaried
+295,Irregular,1316,Bi-weekly,9.8,Kutcha,9,1.6,Salaried
+296,Defaulted,941,Monthly,32.6,Semi-pucca,6,1.7,Daily Wage
+297,Defaulted,1074,Ad-hoc,30.7,Pucca,8,1.3,Daily Wage
+298,Regular,1448,Bi-weekly,7.7,Pucca,9,1.2,Business
+299,Regular,868,Ad-hoc,47.3,Semi-pucca,4,3.0,Daily Wage
+300,Irregular,907,Bi-weekly,31.6,Pucca,8,1.8,Agriculture
+301,Regular,1336,Bi-weekly,20.6,Pucca,9,1.2,Salaried
+302,Irregular,1551,Weekly,3.9,Pucca,10,1.2,Salaried
+303,Regular,993,Monthly,41.7,Kutcha,4,2.0,Agriculture
+304,Regular,926,Bi-weekly,30.5,Pucca,5,1.5,Agriculture
+305,Defaulted,880,Ad-hoc,36.0,Pucca,7,1.5,Agriculture
+306,Regular,716,Ad-hoc,32.0,Semi-pucca,6,1.7,Daily Wage
+307,Regular,1250,Bi-weekly,6.0,Pucca,9,1.5,Salaried
+308,Regular,1309,Bi-weekly,21.8,Pucca,9,1.5,Salaried
+309,Irregular,838,Ad-hoc,42.3,Semi-pucca,7,1.8,Business
+310,Regular,1171,Bi-weekly,8.6,Pucca,10,1.5,Salaried
+311,Regular,1277,Weekly,24.1,Semi-pucca,6,1.5,Salaried
+312,Irregular,1443,Weekly,10.7,Pucca,9,1.2,Salaried
+313,Regular,891,Bi-weekly,39.4,Kutcha,7,1.7,Agriculture
+314,Regular,1190,Weekly,25.6,Kutcha,8,1.5,Salaried
+315,Irregular,856,Ad-hoc,38.4,Kutcha,8,1.8,Agriculture
+316,Irregular,949,Ad-hoc,36.6,Kutcha,7,1.8,Daily Wage
+317,Irregular,505,Ad-hoc,58.2,Semi-pucca,6,2.0,Agriculture
+318,Regular,832,Monthly,56.2,Pucca,5,2.0,Daily Wage
+319,Regular,1288,Bi-weekly,8.8,Pucca,10,1.6,Business
+320,Regular,926,Monthly,34.5,Semi-pucca,6,1.0,Daily Wage
+321,Regular,716,Ad-hoc,61.0,Kutcha,4,1.8,Business
+322,Regular,1024,Monthly,31.4,Pucca,8,1.4,Daily Wage
+323,Irregular,571,Ad-hoc,64.8,Kutcha,5,2.0,Daily Wage
+324,Regular,1206,Bi-weekly,22.7,Semi-pucca,9,1.5,Business
+325,Irregular,859,Ad-hoc,45.3,Kutcha,5,3.0,Agriculture
+326,Defaulted,721,Monthly,60.0,Kutcha,6,2.0,Agriculture
+327,Regular,1045,Weekly,13.6,Pucca,6,1.3,Business
+328,Regular,1122,Weekly,23.6,Pucca,6,1.2,Salaried
+329,Defaulted,709,Monthly,60.5,Pucca,5,1.5,Daily Wage
+330,Regular,963,Bi-weekly,29.2,Pucca,7,2.0,Business
+331,Defaulted,1033,Ad-hoc,40.0,Semi-pucca,7,1.2,Daily Wage
+332,Regular,609,Bi-weekly,45.1,Kutcha,6,2.0,Daily Wage
+333,Irregular,1129,Bi-weekly,18.5,Semi-pucca,9,1.4,Salaried
+334,Irregular,992,Ad-hoc,41.0,Semi-pucca,5,1.0,Business
+335,Regular,1309,Bi-weekly,35.0,Pucca,7,1.7,Daily Wage
+336,Irregular,1015,Bi-weekly,17.6,Pucca,9,1.3,Business
+337,Irregular,1186,Monthly,20.5,Pucca,9,2.0,Salaried
+338,Irregular,807,Ad-hoc,60.9,Pucca,6,1.3,Daily Wage
+339,Irregular,1253,Bi-weekly,14.2,Pucca,9,1.3,Salaried
+340,Regular,747,Bi-weekly,43.6,Pucca,6,1.4,Agriculture
+341,Irregular,993,Bi-weekly,30.8,Pucca,5,2.0,Business
+342,Regular,557,Ad-hoc,45.5,Pucca,5,1.8,Agriculture
+343,Regular,930,Bi-weekly,42.8,Semi-pucca,5,1.6,Business
+344,Regular,895,Weekly,27.8,Pucca,8,1.0,Salaried
+345,Regular,1260,Bi-weekly,18.5,Pucca,7,1.4,Business
+346,Regular,697,Ad-hoc,55.5,Semi-pucca,5,1.7,Agriculture
+347,Irregular,741,Ad-hoc,50.3,Kutcha,5,2.0,Daily Wage
+348,Regular,1069,Bi-weekly,32.2,Pucca,7,2.0,Agriculture
+349,Regular,1112,Weekly,29.4,Pucca,7,1.7,Salaried
+350,Regular,1383,Bi-weekly,12.5,Semi-pucca,8,1.4,Salaried
+351,Irregular,874,Ad-hoc,44.4,Semi-pucca,5,1.8,Daily Wage
+352,Regular,751,Ad-hoc,57.6,Kutcha,2,2.2,Agriculture
+353,Regular,1069,Monthly,12.4,Pucca,8,1.2,Salaried
+354,Regular,1446,Monthly,14.2,Pucca,8,1.5,Salaried
+355,Regular,1063,Bi-weekly,18.7,Pucca,8,1.4,Salaried
+356,Regular,1291,Weekly,19.1,Pucca,9,1.5,Business
+357,Regular,1199,Bi-weekly,27.5,Pucca,8,1.0,Business
+358,Regular,1170,Bi-weekly,25.9,Pucca,8,2.0,Salaried
+359,Irregular,1239,Weekly,11.6,Pucca,10,1.2,Salaried
+360,Regular,702,Ad-hoc,58.8,Semi-pucca,5,2.5,Daily Wage
+361,Regular,1235,Weekly,14.2,Pucca,8,1.3,Salaried
+362,Regular,839,Bi-weekly,26.7,Pucca,7,1.5,Salaried
+363,Regular,1210,Weekly,16.9,Pucca,9,1.0,Salaried
+364,Regular,1052,Monthly,50.5,Pucca,6,3.0,Agriculture
+365,Regular,1131,Monthly,21.5,Pucca,10,1.5,Salaried
+366,Irregular,1062,Bi-weekly,30.3,Semi-pucca,8,1.3,Agriculture
+367,Defaulted,591,Ad-hoc,60.4,Semi-pucca,3,1.7,Daily Wage
+368,Regular,1176,Weekly,22.6,Pucca,8,1.5,Salaried
+369,Irregular,928,Ad-hoc,33.0,Pucca,8,1.5,Agriculture
+370,Regular,1348,Bi-weekly,15.5,Pucca,10,1.2,Salaried
+371,Regular,1269,Monthly,26.4,Semi-pucca,8,1.2,Salaried
+372,Regular,1164,Ad-hoc,38.7,Semi-pucca,6,1.2,Agriculture
+373,Irregular,1063,Bi-weekly,12.2,Pucca,7,1.3,Business
+374,Regular,1247,Weekly,23.1,Pucca,6,1.2,Salaried
+375,Irregular,1119,Monthly,33.7,Kutcha,7,1.4,Daily Wage
+376,Regular,1262,Bi-weekly,7.2,Pucca,10,2.0,Salaried
+377,Irregular,1150,Ad-hoc,37.8,Kutcha,5,1.5,Daily Wage
+378,Irregular,1106,Ad-hoc,31.9,Semi-pucca,7,1.3,Daily Wage
+379,Regular,1375,Weekly,19.7,Pucca,9,1.5,Salaried
+380,Regular,906,Weekly,28.7,Semi-pucca,6,1.8,Business
+381,Regular,639,Monthly,60.1,Pucca,5,3.0,Daily Wage
+382,Regular,1306,Weekly,9.7,Semi-pucca,9,1.5,Business
+383,Regular,1261,Bi-weekly,27.5,Pucca,9,1.7,Salaried
+384,Regular,908,Ad-hoc,50.5,Semi-pucca,4,1.5,Business
+385,Regular,1091,Bi-weekly,16.0,Pucca,7,1.2,Business
+386,Regular,1412,Weekly,21.4,Semi-pucca,7,1.7,Pension
+387,Defaulted,849,Ad-hoc,46.3,Pucca,5,2.0,Daily Wage
+388,Regular,965,Weekly,27.8,Pucca,7,1.5,Salaried
+389,Regular,1087,Weekly,18.5,Pucca,8,1.5,Business
+390,Defaulted,1087,Bi-weekly,11.5,Pucca,9,1.0,Business
+391,Regular,620,Bi-weekly,42.3,Pucca,6,2.0,Business
+392,Irregular,675,Bi-weekly,64.4,Semi-pucca,3,4.0,Agriculture
+393,Irregular,843,Bi-weekly,30.8,Pucca,5,1.7,Daily Wage
+394,Irregular,992,Ad-hoc,41.1,Pucca,6,1.7,Agriculture
+395,Irregular,1322,Monthly,19.6,Pucca,8,1.2,Salaried
+396,Regular,1299,Bi-weekly,13.9,Pucca,10,1.5,Salaried
+397,Regular,1297,Bi-weekly,9.9,Pucca,8,1.3,Salaried
+398,Defaulted,780,Monthly,36.7,Kutcha,4,1.0,Business
+399,Irregular,960,Bi-weekly,50.7,Pucca,6,1.3,Agriculture
+400,Regular,1412,Weekly,23.6,Semi-pucca,8,1.0,Salaried
+401,Irregular,1150,Ad-hoc,40.6,Semi-pucca,5,1.5,Daily Wage
+402,Regular,922,Weekly,26.5,Pucca,6,1.5,Salaried
+403,Regular,970,Ad-hoc,38.1,Semi-pucca,8,2.0,Agriculture
+404,Regular,1112,Weekly,22.5,Semi-pucca,9,1.4,Salaried
+405,Irregular,1294,Bi-weekly,4.5,Pucca,7,1.2,Salaried
+406,Regular,1222,Monthly,16.4,Pucca,8,1.5,Business
+407,Regular,1492,Weekly,19.1,Pucca,10,2.0,Pension
+408,Regular,1127,Bi-weekly,26.2,Pucca,7,1.4,Salaried
+409,Regular,945,Monthly,35.6,Kutcha,6,1.3,Agriculture
+410,Regular,1352,Weekly,8.1,Pucca,9,1.3,Salaried
+411,Irregular,1096,Weekly,10.8,Pucca,8,1.0,Business
+412,Regular,1029,Bi-weekly,24.6,Pucca,5,1.3,Salaried
+413,Regular,938,Monthly,54.5,Pucca,6,2.5,Agriculture
+414,Irregular,1057,Monthly,33.6,Pucca,4,1.5,Daily Wage
+415,Regular,1571,Monthly,11.2,Pucca,9,1.2,Pension
+416,Regular,1350,Weekly,7.9,Semi-pucca,10,1.4,Salaried
+417,Regular,980,Weekly,22.3,Pucca,6,2.0,Salaried
+418,Regular,914,Monthly,23.9,Semi-pucca,6,1.5,Pension
+419,Irregular,1024,Monthly,46.9,Semi-pucca,7,1.7,Daily Wage
+420,Regular,1133,Weekly,10.9,Pucca,10,1.2,Business
+421,Defaulted,855,Ad-hoc,35.1,Pucca,6,1.5,Daily Wage
+422,Irregular,1201,Weekly,11.5,Pucca,10,1.4,Pension
+423,Defaulted,966,Monthly,52.1,Pucca,6,2.5,Daily Wage
+424,Regular,839,Monthly,46.3,Pucca,6,2.0,Daily Wage
+425,Defaulted,791,Ad-hoc,44.6,Semi-pucca,4,3.0,Daily Wage
+426,Irregular,1073,Bi-weekly,45.1,Semi-pucca,5,1.8,Daily Wage
+427,Regular,1317,Weekly,20.8,Pucca,8,1.0,Salaried
+428,Irregular,1024,Monthly,55.3,Pucca,4,2.0,Agriculture
+429,Regular,1323,Weekly,24.1,Pucca,9,2.0,Business
+430,Irregular,1160,Ad-hoc,35.2,Semi-pucca,5,1.4,Agriculture
+431,Irregular,676,Monthly,56.2,Pucca,3,1.5,Daily Wage
+432,Regular,1419,Bi-weekly,6.6,Pucca,10,1.2,Salaried
+433,Regular,1044,Ad-hoc,47.8,Kutcha,5,2.5,Daily Wage
+434,Irregular,1261,Monthly,36.2,Kutcha,6,1.3,Agriculture
+435,Regular,982,Monthly,40.2,Pucca,4,1.5,Daily Wage
+436,Irregular,1171,Weekly,14.5,Pucca,9,1.0,Salaried
+437,Regular,1112,Weekly,14.9,Pucca,8,1.4,Salaried
+438,Regular,1243,Bi-weekly,26.7,Semi-pucca,8,2.0,Salaried
+439,Regular,1013,Bi-weekly,26.7,Pucca,7,1.7,Salaried
+440,Regular,1193,Weekly,20.2,Pucca,8,1.2,Salaried
+441,Irregular,705,Ad-hoc,51.9,Semi-pucca,6,1.8,Daily Wage
+442,Regular,1363,Monthly,1.3,Pucca,8,2.0,Salaried
+443,Regular,1208,Weekly,23.0,Pucca,8,1.0,Pension
+444,Regular,1339,Bi-weekly,8.9,Pucca,7,1.2,Salaried
+445,Regular,905,Ad-hoc,54.4,Semi-pucca,4,1.5,Daily Wage
+446,Irregular,835,Bi-weekly,33.8,Pucca,5,1.5,Daily Wage
+447,Irregular,1140,Bi-weekly,22.1,Pucca,9,1.5,Salaried
+448,Regular,1199,Monthly,12.2,Pucca,9,1.3,Salaried
+449,Regular,902,Bi-weekly,32.7,Pucca,7,1.4,Daily Wage
+450,Defaulted,1185,Bi-weekly,10.0,Semi-pucca,8,1.7,Business
+451,Regular,903,Monthly,33.8,Pucca,6,2.0,Daily Wage
+452,Irregular,807,Bi-weekly,58.3,Pucca,3,2.0,Agriculture
+453,Irregular,852,Monthly,54.9,Semi-pucca,5,1.8,Daily Wage
+454,Regular,1363,Weekly,14.4,Semi-pucca,7,1.0,Salaried
+455,Regular,852,Ad-hoc,54.0,Kutcha,6,2.0,Agriculture
+456,Regular,1368,Weekly,4.9,Pucca,7,1.5,Salaried
+457,Irregular,1161,Bi-weekly,22.7,Pucca,7,1.7,Salaried
+458,Irregular,1328,Bi-weekly,15.1,Semi-pucca,10,1.3,Salaried
+459,Regular,1061,Bi-weekly,4.0,Pucca,9,2.0,Business
+460,Regular,929,Bi-weekly,42.0,Pucca,4,1.5,Agriculture
+461,Defaulted,927,Monthly,47.0,Kutcha,6,2.0,Agriculture
+462,Irregular,1145,Bi-weekly,45.9,Pucca,5,1.3,Agriculture
+463,Regular,922,Bi-weekly,29.3,Kutcha,6,1.5,Business
+464,Irregular,881,Bi-weekly,32.5,Semi-pucca,5,1.6,Daily Wage
+465,Irregular,412,Ad-hoc,60.8,Semi-pucca,7,2.0,Agriculture
+466,Regular,954,Weekly,22.8,Semi-pucca,7,1.5,Business
+467,Irregular,1017,Ad-hoc,32.9,Semi-pucca,4,1.8,Daily Wage
+468,Regular,1090,Bi-weekly,18.9,Pucca,10,1.5,Salaried
+469,Defaulted,772,Monthly,47.6,Semi-pucca,6,2.0,Daily Wage
+470,Regular,895,Ad-hoc,46.2,Pucca,4,1.7,Daily Wage
+471,Irregular,1112,Monthly,33.6,Pucca,6,1.4,Daily Wage
+472,Regular,1081,Bi-weekly,29.1,Semi-pucca,8,1.7,Salaried
+473,Irregular,1072,Ad-hoc,30.1,Pucca,7,1.7,Agriculture
+474,Regular,1096,Ad-hoc,32.7,Pucca,4,1.2,Agriculture
+475,Regular,1069,Monthly,6.8,Pucca,10,1.0,Salaried
+476,Irregular,1051,Ad-hoc,33.3,Kutcha,6,1.0,Daily Wage
+477,Regular,763,Ad-hoc,56.9,Pucca,6,1.7,Daily Wage
+478,Regular,1213,Weekly,16.9,Pucca,10,1.4,Salaried
+479,Defaulted,962,Ad-hoc,32.3,Pucca,6,1.4,Daily Wage
+480,Regular,1085,Weekly,26.0,Pucca,9,1.3,Business
+481,Regular,1224,Bi-weekly,21.1,Pucca,7,1.5,Business
+482,Regular,1135,Ad-hoc,44.5,Semi-pucca,3,1.8,Daily Wage
+483,Regular,951,Bi-weekly,19.3,Pucca,8,1.5,Business
+484,Irregular,1016,Ad-hoc,42.2,Pucca,6,1.7,Agriculture
+485,Irregular,1224,Ad-hoc,31.5,Semi-pucca,6,1.5,Agriculture
+486,Regular,1124,Weekly,8.9,Pucca,9,1.5,Salaried
+487,Regular,1175,Weekly,18.1,Pucca,10,1.3,Business
+488,Regular,1120,Bi-weekly,28.9,Pucca,7,1.5,Salaried
+489,Regular,1470,Weekly,19.1,Pucca,7,2.0,Salaried
+490,Regular,1424,Bi-weekly,25.5,Pucca,8,1.7,Salaried
+491,Regular,933,Weekly,26.3,Pucca,8,1.2,Salaried
+492,Regular,1152,Weekly,18.7,Pucca,5,1.5,Business
+493,Regular,1292,Bi-weekly,12.4,Pucca,9,1.5,Salaried
+494,Irregular,1082,Ad-hoc,35.9,Semi-pucca,7,1.5,Daily Wage
+495,Regular,1420,Weekly,0.7,Semi-pucca,10,1.0,Business
+496,Regular,1019,Weekly,22.5,Pucca,9,1.2,Salaried
+497,Irregular,855,Bi-weekly,36.8,Semi-pucca,6,1.5,Daily Wage
+498,Irregular,667,Bi-weekly,47.0,Pucca,6,1.8,Daily Wage
+499,Irregular,860,Weekly,23.3,Pucca,6,1.7,Business
+500,Irregular,516,Ad-hoc,60.5,Pucca,4,2.0,Daily Wage
+501,Regular,1439,Monthly,11.2,Pucca,10,1.5,Salaried
+502,Regular,1178,Weekly,29.2,Pucca,6,1.5,Salaried
+503,Regular,1209,Weekly,24.4,Pucca,7,1.7,Salaried
+504,Irregular,1268,Bi-weekly,9.1,Pucca,8,1.3,Salaried
+505,Regular,1017,Ad-hoc,34.2,Kutcha,7,1.6,Agriculture
+506,Regular,1074,Weekly,26.1,Pucca,6,1.7,Salaried
+507,Regular,1061,Weekly,10.5,Pucca,9,1.3,Business
+508,Regular,1117,Bi-weekly,33.9,Kutcha,8,1.5,Agriculture
+509,Regular,1445,Weekly,6.7,Pucca,10,1.5,Salaried
+510,Regular,804,Ad-hoc,39.5,Pucca,4,1.0,Daily Wage
+511,Regular,1051,Monthly,17.0,Pucca,9,1.3,Salaried
+512,Defaulted,688,Ad-hoc,69.1,Pucca,4,1.7,Business
+513,Irregular,1260,Monthly,17.0,Pucca,9,1.4,Salaried
+514,Regular,1216,Weekly,26.0,Semi-pucca,8,1.0,Salaried
+515,Irregular,1222,Ad-hoc,34.1,Pucca,7,2.0,Daily Wage
+516,Irregular,1038,Weekly,19.4,Pucca,9,1.5,Salaried
+517,Regular,902,Bi-weekly,44.2,Semi-pucca,8,2.0,Daily Wage
+518,Regular,938,Bi-weekly,29.2,Semi-pucca,6,2.0,Business
+519,Irregular,1222,Weekly,4.3,Pucca,10,1.2,Salaried
+520,Regular,1246,Weekly,8.5,Pucca,9,1.3,Salaried
+521,Defaulted,1080,Ad-hoc,47.4,Pucca,5,1.6,Agriculture
+522,Regular,1253,Weekly,27.4,Pucca,5,1.5,Business
+523,Regular,1128,Bi-weekly,23.7,Pucca,7,1.2,Business
+524,Regular,804,Weekly,26.7,Pucca,6,3.0,Salaried
+525,Regular,1341,Bi-weekly,10.3,Semi-pucca,8,1.2,Salaried
+526,Regular,1201,Weekly,22.8,Pucca,6,1.2,Business
+527,Regular,980,Bi-weekly,26.3,Pucca,7,1.3,Business
+528,Irregular,758,Bi-weekly,68.9,Semi-pucca,3,1.7,Daily Wage
+529,Regular,990,Bi-weekly,25.1,Pucca,8,1.7,Business
+530,Regular,1246,Bi-weekly,24.5,Pucca,6,1.5,Salaried
+531,Regular,1129,Weekly,27.7,Pucca,5,1.5,Salaried
+532,Regular,896,Weekly,27.2,Semi-pucca,8,1.6,Business
+533,Regular,1096,Weekly,23.0,Pucca,7,1.5,Business
+534,Irregular,951,Ad-hoc,42.6,Semi-pucca,7,1.7,Agriculture
+535,Regular,1197,Bi-weekly,22.3,Pucca,8,1.4,Salaried
+536,Regular,1019,Monthly,47.7,Pucca,6,1.7,Business
+537,Irregular,1307,Bi-weekly,23.1,Pucca,9,1.2,Salaried
+538,Irregular,892,Ad-hoc,43.1,Kutcha,5,1.5,Daily Wage
+539,Regular,1052,Bi-weekly,38.7,Kutcha,5,1.5,Daily Wage
+540,Regular,1395,Weekly,20.9,Pucca,9,1.2,Salaried
+541,Regular,1158,Bi-weekly,9.0,Pucca,10,1.3,Salaried
+542,Regular,650,Ad-hoc,60.4,Kutcha,4,2.5,Agriculture
+543,Regular,919,Weekly,22.7,Pucca,9,1.4,Salaried
+544,Regular,976,Monthly,30.4,Pucca,7,1.4,Daily Wage
+545,Irregular,1247,Weekly,16.5,Pucca,8,1.4,Business
+546,Irregular,903,Bi-weekly,18.2,Semi-pucca,8,1.8,Pension
+547,Irregular,936,Ad-hoc,47.7,Semi-pucca,4,1.8,Daily Wage
+548,Regular,754,Bi-weekly,52.6,Kutcha,5,2.0,Daily Wage
+549,Regular,994,Monthly,36.1,Semi-pucca,8,1.7,Daily Wage
+550,Regular,960,Weekly,25.1,Pucca,8,1.5,Salaried
+551,Irregular,963,Ad-hoc,38.4,Semi-pucca,6,1.7,Daily Wage
+552,Regular,1419,Weekly,19.6,Semi-pucca,8,2.0,Salaried
+553,Regular,1016,Bi-weekly,29.8,Pucca,7,1.0,Salaried
+554,Regular,944,Bi-weekly,13.2,Pucca,10,1.2,Salaried
+555,Irregular,1430,Bi-weekly,12.6,Pucca,9,1.2,Salaried
+556,Defaulted,1085,Ad-hoc,35.5,Semi-pucca,6,1.8,Daily Wage
+557,Irregular,1058,Monthly,32.2,Pucca,7,1.5,Agriculture
+558,Irregular,1137,Ad-hoc,31.1,Pucca,7,1.2,Daily Wage
+559,Regular,1162,Bi-weekly,22.7,Pucca,7,1.5,Business
+560,Regular,1287,Ad-hoc,31.2,Semi-pucca,7,1.4,Business
+561,Irregular,1315,Weekly,17.2,Pucca,6,1.2,Business
+562,Regular,1290,Weekly,4.1,Pucca,10,1.2,Salaried
+563,Regular,1305,Bi-weekly,27.6,Pucca,8,1.6,Salaried
+564,Regular,1551,Monthly,9.4,Pucca,10,1.4,Salaried
+565,Defaulted,1074,Ad-hoc,41.2,Pucca,5,2.0,Daily Wage
+566,Regular,889,Ad-hoc,51.6,Pucca,5,1.5,Daily Wage
+567,Regular,582,Ad-hoc,63.4,Pucca,5,3.5,Daily Wage
+568,Irregular,1197,Weekly,27.2,Semi-pucca,9,1.5,Salaried
+569,Regular,1277,Bi-weekly,16.1,Semi-pucca,8,1.3,Business
+570,Irregular,1064,Ad-hoc,30.2,Pucca,7,1.7,Agriculture
+571,Regular,1225,Bi-weekly,24.7,Semi-pucca,9,1.5,Salaried
+572,Irregular,1107,Monthly,27.7,Semi-pucca,5,1.8,Business
+573,Irregular,957,Monthly,47.2,Pucca,5,1.0,Daily Wage
+574,Regular,1304,Weekly,21.9,Kutcha,9,1.5,Pension
+575,Regular,937,Monthly,25.1,Semi-pucca,9,1.4,Salaried
+576,Regular,1108,Weekly,13.4,Pucca,9,1.7,Business
+577,Regular,988,Bi-weekly,25.8,Pucca,6,2.0,Salaried
+578,Regular,1038,Ad-hoc,57.6,Pucca,4,2.0,Daily Wage
+579,Regular,1296,Weekly,17.5,Pucca,8,1.2,Business
+580,Regular,1017,Ad-hoc,44.0,Semi-pucca,6,1.7,Business
+581,Irregular,1294,Weekly,24.0,Pucca,7,1.4,Salaried
+582,Regular,763,Ad-hoc,44.6,Semi-pucca,4,1.8,Business
+583,Irregular,654,Bi-weekly,41.8,Semi-pucca,3,2.0,Agriculture
+584,Regular,1253,Bi-weekly,12.5,Pucca,10,1.6,Salaried
+585,Irregular,1070,Ad-hoc,41.4,Semi-pucca,5,1.7,Daily Wage
+586,Regular,1278,Bi-weekly,8.6,Pucca,9,1.8,Business
+587,Regular,1095,Bi-weekly,10.2,Pucca,9,1.7,Salaried
+588,Regular,1021,Monthly,22.9,Pucca,6,1.0,Business
+589,Defaulted,633,Ad-hoc,54.7,Pucca,3,3.0,Daily Wage
+590,Irregular,928,Ad-hoc,35.1,Pucca,5,1.3,Agriculture
+591,Regular,1084,Weekly,13.9,Semi-pucca,8,1.2,Business
+592,Regular,1361,Bi-weekly,5.4,Pucca,10,2.0,Salaried
+593,Irregular,904,Monthly,38.1,Pucca,5,1.6,Daily Wage
+594,Regular,1181,Monthly,27.9,Pucca,9,1.7,Salaried
+595,Irregular,925,Bi-weekly,30.7,Semi-pucca,8,1.5,Daily Wage
+596,Defaulted,1058,Monthly,34.3,Pucca,8,1.3,Daily Wage
+597,Irregular,871,Monthly,47.6,Pucca,5,2.0,Agriculture
+598,Regular,1174,Weekly,25.5,Semi-pucca,9,2.0,Salaried
+599,Defaulted,923,Ad-hoc,50.1,Pucca,5,2.0,Agriculture
+600,Regular,1320,Weekly,15.4,Pucca,8,1.4,Salaried
+601,Regular,1446,Monthly,6.3,Pucca,10,1.0,Salaried
+602,Irregular,982,Monthly,44.8,Semi-pucca,6,2.3,Daily Wage
+603,Defaulted,1320,Monthly,11.0,Pucca,10,1.5,Business
+604,Regular,976,Bi-weekly,30.0,Pucca,6,1.8,Salaried
+605,Irregular,929,Monthly,53.6,Pucca,4,1.8,Daily Wage
+606,Regular,1228,Weekly,6.7,Kutcha,10,1.5,Salaried
+607,Regular,988,Monthly,33.7,Pucca,7,1.7,Daily Wage
+608,Regular,1211,Weekly,6.2,Pucca,9,1.2,Business
+609,Regular,982,Weekly,26.7,Semi-pucca,5,2.0,Salaried
+610,Regular,1339,Weekly,1.5,Pucca,10,1.2,Business
+611,Regular,1265,Weekly,9.3,Kutcha,10,1.2,Salaried
+612,Regular,1107,Bi-weekly,16.2,Semi-pucca,10,1.4,Business
+613,Regular,1341,Weekly,5.6,Semi-pucca,8,1.4,Business
+614,Irregular,1022,Ad-hoc,36.3,Pucca,6,1.5,Agriculture
+615,Irregular,964,Ad-hoc,32.6,Pucca,6,1.7,Daily Wage
+616,Regular,1113,Monthly,55.2,Semi-pucca,6,2.0,Agriculture
+617,Regular,1325,Bi-weekly,11.0,Kutcha,9,1.5,Salaried
+618,Regular,1177,Weekly,21.7,Pucca,7,1.3,Salaried
+619,Irregular,1219,Weekly,7.8,Semi-pucca,10,2.0,Business
+620,Regular,1224,Bi-weekly,17.7,Pucca,8,1.2,Business
+621,Regular,778,Monthly,59.5,Pucca,3,1.7,Daily Wage
+622,Defaulted,962,Bi-weekly,39.7,Semi-pucca,5,2.0,Agriculture
+623,Regular,1482,Weekly,10.6,Semi-pucca,10,1.5,Salaried
+624,Regular,1127,Bi-weekly,3.1,Pucca,10,1.2,Business
+625,Regular,1315,Bi-weekly,2.8,Pucca,10,2.0,Salaried
+626,Irregular,1095,Ad-hoc,36.8,Kutcha,6,1.5,Daily Wage
+627,Regular,1099,Monthly,15.9,Pucca,9,1.5,Salaried
+628,Defaulted,371,Ad-hoc,73.8,Kutcha,3,2.0,Agriculture
+629,Irregular,1059,Weekly,24.4,Pucca,8,1.4,Salaried
+630,Irregular,1358,Weekly,17.1,Pucca,8,1.0,Business
+631,Regular,1188,Bi-weekly,8.1,Pucca,10,1.2,Salaried
+632,Defaulted,857,Ad-hoc,44.8,Kutcha,6,1.5,Agriculture
+633,Regular,1241,Weekly,19.7,Pucca,7,1.3,Salaried
+634,Regular,1031,Weekly,26.1,Semi-pucca,7,1.4,Salaried
+635,Regular,1031,Weekly,27.9,Pucca,5,1.5,Salaried
+636,Regular,1034,Monthly,24.9,Pucca,10,2.0,Salaried
+637,Regular,892,Ad-hoc,38.9,Semi-pucca,7,1.5,Daily Wage
+638,Regular,1138,Weekly,9.0,Pucca,8,1.3,Salaried
+639,Regular,1100,Weekly,23.9,Pucca,7,1.7,Business
+640,Regular,1328,Weekly,20.0,Pucca,7,1.3,Business
+641,Defaulted,1180,Ad-hoc,40.1,Pucca,8,2.0,Agriculture
+642,Irregular,1060,Ad-hoc,46.7,Pucca,4,2.5,Agriculture
+643,Regular,1278,Weekly,12.8,Pucca,9,1.3,Business
+644,Defaulted,1188,Monthly,40.4,Semi-pucca,6,1.7,Agriculture
+645,Regular,1623,Weekly,8.9,Semi-pucca,10,1.0,Salaried
+646,Regular,1152,Bi-weekly,24.8,Pucca,7,1.7,Salaried
+647,Regular,970,Bi-weekly,26.4,Pucca,5,1.2,Salaried
+648,Defaulted,1083,Ad-hoc,45.5,Kutcha,5,2.0,Daily Wage
+649,Irregular,803,Ad-hoc,39.0,Semi-pucca,5,1.6,Business
+650,Regular,1168,Weekly,9.7,Pucca,9,1.2,Business
+651,Irregular,687,Ad-hoc,38.3,Pucca,8,1.4,Daily Wage
+652,Regular,1174,Weekly,29.8,Pucca,5,1.5,Salaried
+653,Irregular,426,Monthly,59.0,Semi-pucca,3,2.0,Agriculture
+654,Regular,1345,Bi-weekly,17.6,Semi-pucca,8,1.7,Salaried
+655,Regular,1417,Monthly,21.4,Semi-pucca,7,1.3,Salaried
+656,Irregular,959,Ad-hoc,62.0,Semi-pucca,5,1.7,Agriculture
+657,Irregular,686,Ad-hoc,48.7,Kutcha,5,1.7,Agriculture
+658,Regular,1033,Bi-weekly,9.6,Pucca,10,1.0,Salaried
+659,Regular,1035,Weekly,25.0,Pucca,7,1.3,Salaried
+660,Regular,1147,Ad-hoc,34.1,Kutcha,7,1.8,Business
+661,Regular,1127,Ad-hoc,40.1,Pucca,7,1.6,Daily Wage
+662,Regular,1363,Bi-weekly,11.8,Semi-pucca,8,1.3,Pension
+663,Regular,860,Ad-hoc,55.7,Kutcha,5,1.5,Daily Wage
+664,Regular,1661,Bi-weekly,6.3,Pucca,9,1.8,Salaried
+665,Regular,1197,Bi-weekly,12.3,Pucca,10,1.2,Salaried
+666,Defaulted,707,Monthly,53.0,Semi-pucca,4,1.7,Agriculture
+667,Regular,935,Bi-weekly,27.1,Pucca,8,1.4,Salaried
+668,Regular,1155,Bi-weekly,27.7,Pucca,7,1.3,Business
+669,Irregular,1043,Monthly,30.1,Pucca,7,1.2,Business
+670,Irregular,1361,Bi-weekly,14.0,Semi-pucca,9,1.3,Salaried
+671,Irregular,1255,Weekly,7.4,Pucca,10,1.6,Salaried
+672,Regular,1125,Bi-weekly,32.9,Pucca,5,1.2,Daily Wage
+673,Regular,950,Ad-hoc,36.0,Semi-pucca,8,1.5,Agriculture
+674,Regular,1036,Ad-hoc,31.0,Semi-pucca,5,1.5,Daily Wage
+675,Regular,1192,Weekly,18.0,Pucca,7,1.5,Salaried
+676,Regular,1040,Bi-weekly,11.0,Pucca,9,1.5,Salaried
+677,Regular,1130,Bi-weekly,22.7,Semi-pucca,8,1.5,Salaried
+678,Defaulted,775,Ad-hoc,63.9,Semi-pucca,6,1.8,Daily Wage
+679,Regular,994,Bi-weekly,24.3,Pucca,5,1.4,Salaried
+680,Defaulted,1429,Monthly,21.6,Semi-pucca,7,1.5,Salaried
+681,Regular,1127,Bi-weekly,24.9,Pucca,5,2.0,Pension
+682,Regular,1051,Bi-weekly,23.7,Kutcha,8,1.3,Salaried
+683,Regular,722,Bi-weekly,53.2,Pucca,5,2.3,Daily Wage
+684,Regular,1162,Monthly,39.0,Pucca,8,1.0,Daily Wage
+685,Regular,1097,Weekly,17.0,Semi-pucca,8,1.5,Pension
+686,Regular,1217,Bi-weekly,20.4,Pucca,9,1.4,Business
+687,Regular,1243,Weekly,25.5,Semi-pucca,8,1.6,Business
+688,Regular,1159,Weekly,28.9,Semi-pucca,7,1.5,Business
+689,Regular,1166,Monthly,14.1,Semi-pucca,7,1.0,Salaried
+690,Regular,1310,Bi-weekly,18.8,Kutcha,8,1.4,Salaried
+691,Defaulted,800,Ad-hoc,56.5,Pucca,3,2.5,Business
+692,Irregular,560,Bi-weekly,54.4,Semi-pucca,6,1.7,Daily Wage
+693,Irregular,1343,Weekly,20.7,Pucca,8,1.5,Pension
+694,Regular,1100,Weekly,19.4,Pucca,9,1.5,Business
+695,Irregular,944,Bi-weekly,39.2,Kutcha,6,1.8,Daily Wage
+696,Regular,1382,Weekly,5.5,Pucca,10,1.3,Business
+697,Regular,761,Monthly,51.3,Semi-pucca,5,1.8,Daily Wage
+698,Regular,1321,Weekly,16.8,Pucca,8,1.3,Salaried
+699,Irregular,860,Ad-hoc,35.0,Semi-pucca,6,2.0,Business
+700,Regular,1248,Weekly,6.5,Kutcha,10,1.2,Business
+701,Regular,1132,Bi-weekly,39.9,Pucca,5,1.8,Daily Wage
+702,Regular,1007,Ad-hoc,36.0,Semi-pucca,5,1.0,Daily Wage
+703,Irregular,881,Ad-hoc,33.7,Kutcha,8,1.7,Agriculture
+704,Regular,1272,Bi-weekly,12.6,Pucca,10,1.5,Salaried
+705,Regular,1250,Bi-weekly,18.7,Pucca,8,1.2,Business
+706,Defaulted,837,Ad-hoc,30.9,Pucca,9,1.7,Daily Wage
+707,Regular,1454,Monthly,16.1,Pucca,8,1.2,Salaried
+708,Regular,1478,Bi-weekly,15.6,Pucca,10,1.5,Salaried
+709,Defaulted,878,Monthly,48.9,Kutcha,5,2.0,Daily Wage
+710,Regular,1327,Weekly,4.1,Pucca,8,1.0,Business
+711,Irregular,851,Ad-hoc,50.1,Kutcha,7,2.0,Daily Wage
+712,Regular,1386,Bi-weekly,12.5,Semi-pucca,10,1.5,Salaried
+713,Irregular,1047,Ad-hoc,37.8,Semi-pucca,6,1.5,Daily Wage
+714,Irregular,1079,Ad-hoc,32.2,Pucca,8,2.0,Agriculture
+715,Regular,1460,Monthly,12.1,Pucca,8,1.3,Salaried
+716,Regular,1377,Monthly,16.5,Pucca,9,1.5,Business
+717,Regular,802,Ad-hoc,42.1,Kutcha,3,1.8,Agriculture
+718,Regular,1278,Weekly,22.3,Pucca,7,1.5,Salaried
+719,Defaulted,738,Ad-hoc,74.8,Semi-pucca,4,2.5,Daily Wage
+720,Irregular,1244,Bi-weekly,17.7,Pucca,8,1.3,Salaried
+721,Regular,1297,Bi-weekly,16.9,Pucca,9,1.5,Business
+722,Regular,1245,Weekly,10.1,Pucca,7,1.3,Salaried
+723,Regular,1060,Bi-weekly,15.5,Pucca,10,1.3,Business
+724,Regular,1387,Bi-weekly,25.2,Pucca,9,1.5,Salaried
+725,Regular,443,Bi-weekly,69.9,Pucca,3,2.0,Agriculture
+726,Regular,1456,Bi-weekly,16.3,Pucca,8,1.2,Salaried
+727,Regular,1351,Monthly,3.6,Semi-pucca,10,1.2,Salaried
+728,Regular,1369,Bi-weekly,18.7,Pucca,10,2.0,Business
+729,Regular,1094,Bi-weekly,28.0,Pucca,8,1.0,Salaried
+730,Regular,976,Bi-weekly,50.4,Semi-pucca,8,1.7,Agriculture
+731,Regular,1143,Bi-weekly,29.1,Pucca,6,1.6,Salaried
+732,Regular,1071,Monthly,21.4,Semi-pucca,7,1.5,Salaried
+733,Regular,1227,Bi-weekly,17.4,Pucca,7,1.3,Business
+734,Irregular,940,Monthly,39.9,Semi-pucca,7,2.0,Daily Wage
+735,Irregular,1197,Bi-weekly,26.6,Semi-pucca,8,1.4,Salaried
+736,Regular,977,Ad-hoc,40.2,Kutcha,6,1.7,Daily Wage
+737,Regular,1324,Weekly,10.5,Pucca,10,1.2,Salaried
+738,Regular,1047,Weekly,19.0,Pucca,10,2.0,Salaried
+739,Defaulted,830,Bi-weekly,35.5,Semi-pucca,5,1.7,Daily Wage
+740,Regular,1323,Bi-weekly,7.9,Pucca,8,1.4,Salaried
+741,Regular,1289,Bi-weekly,12.4,Semi-pucca,10,1.5,Business
+742,Regular,987,Monthly,24.1,Semi-pucca,7,1.7,Salaried
+743,Defaulted,964,Monthly,46.9,Semi-pucca,4,3.0,Business
+744,Irregular,882,Ad-hoc,54.9,Pucca,6,2.5,Agriculture
+745,Regular,1276,Monthly,13.2,Semi-pucca,7,1.5,Pension
+746,Regular,1073,Weekly,29.9,Pucca,7,1.7,Salaried
+747,Irregular,656,Ad-hoc,51.5,Kutcha,5,2.3,Daily Wage
+748,Irregular,779,Ad-hoc,40.1,Pucca,5,1.0,Agriculture
+749,Regular,1142,Weekly,28.4,Pucca,8,1.7,Salaried
+750,Irregular,934,Bi-weekly,31.8,Pucca,6,1.8,Daily Wage
+751,Regular,1141,Bi-weekly,13.8,Pucca,10,2.0,Business
+752,Regular,1217,Weekly,20.1,Pucca,8,1.2,Salaried
+753,Irregular,1419,Weekly,24.2,Semi-pucca,8,1.5,Salaried
+754,Irregular,1091,Monthly,23.0,Pucca,9,2.0,Salaried
+755,Regular,1449,Bi-weekly,21.6,Semi-pucca,7,1.5,Pension
+756,Regular,1253,Monthly,12.3,Pucca,6,1.3,Business
+757,Irregular,911,Bi-weekly,51.6,Pucca,5,2.0,Agriculture
+758,Regular,1245,Monthly,26.2,Pucca,7,1.5,Business
+759,Regular,1290,Bi-weekly,23.1,Pucca,8,1.5,Business
+760,Regular,1341,Bi-weekly,9.6,Semi-pucca,9,1.5,Salaried
+761,Regular,993,Monthly,34.0,Pucca,6,1.3,Daily Wage
+762,Regular,1343,Bi-weekly,15.7,Pucca,10,1.3,Salaried
+763,Regular,1281,Bi-weekly,16.2,Pucca,7,1.5,Business
+764,Regular,1124,Bi-weekly,19.5,Semi-pucca,9,1.4,Salaried
+765,Regular,1169,Ad-hoc,38.9,Pucca,5,1.5,Agriculture
+766,Regular,1107,Bi-weekly,32.4,Pucca,6,1.4,Daily Wage
+767,Regular,1232,Monthly,5.7,Pucca,9,1.4,Salaried
+768,Regular,721,Ad-hoc,50.7,Semi-pucca,4,2.0,Daily Wage
+769,Defaulted,1339,Ad-hoc,30.4,Pucca,8,1.8,Agriculture
+770,Regular,1004,Weekly,29.7,Semi-pucca,9,1.3,Salaried
+771,Regular,1355,Bi-weekly,13.7,Pucca,9,1.3,Business
+772,Regular,958,Ad-hoc,44.9,Semi-pucca,6,1.5,Daily Wage
+773,Regular,1223,Bi-weekly,25.2,Pucca,6,1.3,Salaried
+774,Regular,1481,Bi-weekly,17.0,Pucca,9,1.5,Pension
+775,Regular,1451,Weekly,8.0,Pucca,10,1.4,Business
+776,Irregular,1261,Bi-weekly,23.3,Kutcha,7,1.4,Salaried
+777,Irregular,839,Monthly,48.4,Kutcha,5,1.5,Daily Wage
+778,Regular,1120,Monthly,16.9,Semi-pucca,8,1.3,Pension
+779,Regular,1656,Weekly,7.5,Semi-pucca,9,1.2,Salaried
+780,Regular,1190,Weekly,18.5,Pucca,5,1.3,Salaried
+781,Regular,1200,Monthly,16.8,Pucca,9,2.0,Salaried
+782,Regular,1136,Weekly,27.6,Pucca,6,1.3,Salaried
+783,Regular,1282,Bi-weekly,13.1,Pucca,7,1.3,Business
+784,Regular,1453,Weekly,15.4,Pucca,9,1.2,Business
+785,Regular,1376,Bi-weekly,9.0,Pucca,8,1.2,Pension
+786,Irregular,835,Ad-hoc,34.7,Semi-pucca,6,2.0,Daily Wage
+787,Irregular,1126,Weekly,16.5,Semi-pucca,10,1.5,Salaried
+788,Regular,1241,Monthly,14.5,Semi-pucca,7,1.5,Salaried
+789,Regular,1047,Bi-weekly,45.1,Kutcha,4,1.5,Business
+790,Irregular,605,Monthly,52.9,Pucca,5,1.5,Agriculture
+791,Regular,1054,Monthly,37.7,Pucca,8,1.5,Agriculture
+792,Regular,954,Ad-hoc,49.8,Semi-pucca,3,2.0,Business
+793,Irregular,1058,Monthly,42.3,Pucca,6,2.0,Daily Wage
+794,Regular,1149,Weekly,21.7,Pucca,9,1.4,Salaried
+795,Regular,1430,Monthly,10.5,Pucca,6,1.2,Business
+796,Regular,1091,Weekly,17.7,Pucca,9,1.5,Pension
+797,Regular,1360,Weekly,15.6,Pucca,9,1.2,Salaried
+798,Irregular,997,Monthly,35.8,Semi-pucca,6,1.3,Daily Wage
+799,Regular,1143,Weekly,23.8,Pucca,9,1.7,Salaried
+800,Irregular,1355,Weekly,4.4,Pucca,10,1.4,Salaried
+801,Regular,1295,Weekly,17.7,Pucca,8,1.4,Business
+802,Regular,1156,Weekly,8.1,Pucca,9,1.2,Pension
+803,Regular,1267,Weekly,23.3,Pucca,7,2.0,Salaried
+804,Regular,1019,Monthly,45.6,Pucca,5,1.8,Agriculture
+805,Regular,1235,Bi-weekly,11.1,Semi-pucca,10,1.3,Salaried
+806,Irregular,823,Ad-hoc,52.4,Semi-pucca,4,3.0,Daily Wage
+807,Regular,1005,Weekly,24.9,Pucca,5,1.8,Salaried
+808,Defaulted,844,Ad-hoc,35.8,Pucca,8,1.5,Daily Wage
+809,Regular,1272,Bi-weekly,14.1,Pucca,9,1.2,Salaried
+810,Regular,1146,Monthly,25.6,Pucca,7,1.3,Salaried
+811,Irregular,776,Monthly,52.4,Semi-pucca,6,2.0,Agriculture
+812,Regular,694,Ad-hoc,48.2,Semi-pucca,7,2.0,Daily Wage
+813,Regular,1173,Weekly,26.4,Pucca,4,1.5,Salaried
+814,Irregular,1103,Bi-weekly,22.4,Pucca,8,1.4,Salaried
+815,Irregular,991,Weekly,27.6,Semi-pucca,6,1.7,Business
+816,Irregular,1225,Monthly,32.1,Pucca,7,1.0,Daily Wage
+817,Defaulted,650,Monthly,55.7,Semi-pucca,5,1.5,Agriculture
+818,Regular,1300,Bi-weekly,16.2,Pucca,9,1.2,Salaried
+819,Regular,1019,Bi-weekly,15.5,Pucca,8,1.5,Business
+820,Regular,968,Weekly,21.0,Kutcha,6,1.2,Salaried
+821,Regular,1350,Weekly,10.7,Kutcha,8,1.5,Business
+822,Irregular,952,Ad-hoc,36.4,Pucca,7,1.4,Daily Wage
+823,Regular,1159,Monthly,7.0,Pucca,10,1.5,Salaried
+824,Irregular,900,Ad-hoc,57.5,Pucca,3,1.7,Daily Wage
+825,Regular,1142,Bi-weekly,28.2,Pucca,8,1.5,Business
+826,Defaulted,684,Bi-weekly,37.9,Kutcha,5,1.8,Business
+827,Regular,1484,Weekly,4.6,Kutcha,10,1.0,Salaried
+828,Regular,821,Monthly,39.1,Semi-pucca,5,1.6,Daily Wage
+829,Irregular,802,Monthly,32.6,Pucca,7,1.5,Agriculture
+830,Regular,905,Ad-hoc,34.5,Semi-pucca,8,2.0,Daily Wage
+831,Regular,1133,Bi-weekly,23.7,Pucca,6,1.4,Business
+832,Regular,944,Bi-weekly,42.4,Kutcha,5,1.0,Daily Wage
+833,Regular,1029,Weekly,12.9,Semi-pucca,9,1.3,Business
+834,Regular,839,Bi-weekly,33.0,Pucca,10,1.3,Daily Wage
+835,Regular,1220,Bi-weekly,6.7,Pucca,8,1.3,Business
+836,Regular,1186,Weekly,10.6,Pucca,10,1.3,Business
+837,Irregular,917,Monthly,53.6,Pucca,7,2.0,Agriculture
+838,Irregular,1166,Bi-weekly,16.0,Semi-pucca,8,1.0,Salaried
+839,Regular,1368,Weekly,12.3,Pucca,8,1.3,Salaried
+840,Regular,1212,Bi-weekly,31.0,Pucca,6,1.7,Agriculture
+841,Irregular,927,Ad-hoc,50.1,Semi-pucca,5,2.0,Daily Wage
+842,Regular,757,Weekly,19.3,Semi-pucca,6,1.3,Salaried
+843,Irregular,609,Ad-hoc,68.0,Semi-pucca,3,3.0,Business
+844,Regular,1194,Bi-weekly,16.6,Semi-pucca,10,1.5,Salaried
+845,Regular,902,Monthly,44.5,Kutcha,5,1.8,Daily Wage
+846,Regular,792,Bi-weekly,28.7,Semi-pucca,7,1.3,Business
+847,Regular,1067,Monthly,20.5,Pucca,6,1.3,Business
+848,Irregular,816,Monthly,35.7,Pucca,7,1.7,Agriculture
+849,Irregular,1174,Monthly,8.7,Pucca,9,1.0,Salaried
+850,Regular,1102,Weekly,23.8,Pucca,8,1.2,Salaried
+851,Regular,1062,Bi-weekly,21.3,Pucca,8,1.5,Salaried
+852,Irregular,908,Ad-hoc,33.8,Semi-pucca,6,2.0,Daily Wage
+853,Regular,1052,Monthly,29.1,Pucca,8,1.5,Business
+854,Irregular,948,Bi-weekly,34.8,Kutcha,6,1.7,Daily Wage
+855,Irregular,963,Monthly,42.2,Pucca,6,1.3,Daily Wage
+856,Regular,1074,Weekly,24.2,Pucca,8,1.7,Pension
+857,Irregular,847,Ad-hoc,30.2,Semi-pucca,8,1.4,Agriculture
+858,Irregular,630,Monthly,56.9,Semi-pucca,5,2.3,Daily Wage
+859,Regular,1030,Monthly,29.4,Semi-pucca,7,1.2,Business
+860,Regular,1076,Weekly,23.7,Semi-pucca,9,1.5,Salaried
+861,Irregular,723,Bi-weekly,43.5,Kutcha,6,2.5,Daily Wage
+862,Irregular,1222,Weekly,24.8,Pucca,9,1.4,Salaried
+863,Irregular,793,Ad-hoc,59.2,Semi-pucca,5,3.0,Daily Wage
+864,Defaulted,772,Ad-hoc,49.4,Pucca,3,1.8,Agriculture
+865,Regular,1165,Weekly,19.3,Pucca,10,1.1,Salaried
+866,Regular,1012,Monthly,21.6,Pucca,8,1.2,Salaried
+867,Irregular,1019,Monthly,45.5,Pucca,5,2.0,Agriculture
+868,Defaulted,1214,Ad-hoc,43.2,Pucca,6,1.7,Agriculture
+869,Regular,789,Ad-hoc,47.3,Pucca,5,1.7,Daily Wage
+870,Regular,1292,Weekly,25.4,Pucca,8,1.4,Salaried
+871,Regular,965,Weekly,28.6,Semi-pucca,6,1.3,Salaried
+872,Regular,1070,Weekly,23.2,Pucca,9,1.4,Salaried
+873,Regular,1344,Weekly,23.3,Semi-pucca,8,2.0,Salaried
+874,Regular,1196,Monthly,17.0,Pucca,8,1.5,Business
+875,Irregular,955,Ad-hoc,49.2,Kutcha,4,2.0,Agriculture
+876,Irregular,997,Ad-hoc,33.2,Kutcha,7,1.5,Agriculture
+877,Defaulted,770,Ad-hoc,34.3,Semi-pucca,7,1.5,Daily Wage
+878,Regular,1206,Monthly,47.3,Semi-pucca,6,1.8,Daily Wage
+879,Regular,1306,Weekly,5.8,Pucca,8,1.3,Salaried
+880,Defaulted,1054,Ad-hoc,33.4,Kutcha,5,1.4,Daily Wage
+881,Regular,741,Ad-hoc,50.6,Kutcha,6,1.7,Daily Wage
+882,Regular,1389,Bi-weekly,10.9,Semi-pucca,10,1.2,Salaried
+883,Irregular,974,Ad-hoc,47.6,Semi-pucca,4,2.0,Daily Wage
+884,Regular,813,Monthly,33.5,Pucca,9,1.5,Agriculture
+885,Regular,1081,Bi-weekly,31.1,Semi-pucca,7,1.2,Daily Wage
+886,Irregular,1175,Ad-hoc,31.6,Pucca,7,1.5,Agriculture
+887,Regular,1420,Bi-weekly,13.4,Pucca,8,1.2,Salaried
+888,Regular,1443,Bi-weekly,4.3,Pucca,8,1.4,Business
+889,Regular,1018,Monthly,44.0,Kutcha,7,2.0,Daily Wage
+890,Regular,1192,Weekly,12.0,Pucca,8,2.0,Salaried
+891,Regular,1007,Weekly,20.0,Pucca,7,1.3,Pension
+892,Irregular,585,Ad-hoc,70.1,Kutcha,4,2.0,Daily Wage
+893,Regular,914,Bi-weekly,28.2,Semi-pucca,5,1.5,Business
+894,Irregular,912,Monthly,34.9,Semi-pucca,5,1.3,Daily Wage
+895,Regular,1092,Bi-weekly,18.3,Pucca,8,1.5,Salaried
+896,Regular,715,Ad-hoc,50.2,Pucca,5,1.3,Business
+897,Regular,1405,Weekly,6.2,Semi-pucca,10,2.0,Salaried
+898,Regular,779,Monthly,43.5,Kutcha,5,1.7,Daily Wage
+899,Regular,1555,Weekly,9.2,Semi-pucca,10,1.5,Salaried
+900,Irregular,850,Monthly,62.6,Semi-pucca,3,2.0,Agriculture
+901,Irregular,1151,Ad-hoc,37.7,Kutcha,6,1.5,Business
+902,Regular,1163,Weekly,12.7,Pucca,8,1.5,Salaried
+903,Regular,1126,Weekly,27.4,Pucca,7,1.5,Salaried
+904,Regular,833,Monthly,38.3,Semi-pucca,7,1.2,Agriculture
+905,Irregular,1234,Weekly,17.8,Pucca,10,1.5,Salaried
+906,Regular,914,Monthly,21.6,Semi-pucca,6,1.5,Salaried
+907,Irregular,975,Bi-weekly,52.1,Semi-pucca,4,1.5,Daily Wage
+908,Irregular,1002,Bi-weekly,27.9,Pucca,8,1.5,Salaried
+909,Irregular,908,Bi-weekly,48.5,Pucca,6,1.8,Daily Wage
+910,Regular,1085,Ad-hoc,34.8,Pucca,7,2.0,Daily Wage
+911,Regular,906,Ad-hoc,37.8,Semi-pucca,7,1.6,Business
+912,Regular,787,Monthly,45.5,Pucca,4,1.3,Agriculture
+913,Irregular,762,Ad-hoc,56.5,Pucca,6,2.0,Daily Wage
+914,Regular,1363,Weekly,13.5,Pucca,10,1.3,Salaried
+915,Irregular,918,Bi-weekly,41.9,Semi-pucca,4,2.0,Daily Wage
+916,Regular,793,Monthly,62.8,Semi-pucca,2,2.5,Business
+917,Irregular,1045,Monthly,42.3,Semi-pucca,5,2.0,Daily Wage
+918,Irregular,1016,Monthly,32.4,Semi-pucca,8,1.5,Daily Wage
+919,Regular,808,Monthly,52.4,Kutcha,3,1.8,Daily Wage
+920,Regular,666,Monthly,68.4,Kutcha,3,2.0,Daily Wage
+921,Irregular,1164,Ad-hoc,35.9,Semi-pucca,7,1.5,Business
+922,Irregular,918,Monthly,39.4,Pucca,6,1.2,Business
+923,Regular,1141,Bi-weekly,38.0,Kutcha,7,1.6,Daily Wage
+924,Regular,1343,Bi-weekly,8.4,Pucca,8,1.2,Pension
+925,Irregular,815,Monthly,43.7,Pucca,6,1.7,Agriculture
+926,Regular,1290,Weekly,9.4,Pucca,8,1.0,Salaried
+927,Regular,805,Bi-weekly,39.8,Pucca,6,1.7,Agriculture
+928,Regular,1126,Bi-weekly,7.8,Kutcha,10,1.3,Salaried
+929,Regular,1343,Weekly,12.8,Pucca,9,1.4,Business
+930,Regular,1276,Monthly,21.4,Pucca,8,1.5,Business
+931,Regular,1186,Weekly,19.0,Pucca,7,1.3,Business
+932,Irregular,912,Bi-weekly,45.0,Semi-pucca,5,1.0,Daily Wage
+933,Regular,1061,Weekly,23.4,Pucca,8,1.5,Salaried
+934,Irregular,1313,Monthly,10.0,Pucca,7,2.0,Business
+935,Regular,1484,Bi-weekly,17.5,Semi-pucca,8,1.4,Salaried
+936,Regular,1199,Monthly,31.1,Pucca,7,2.0,Daily Wage
+937,Regular,1051,Bi-weekly,30.7,Semi-pucca,5,1.6,Daily Wage
+938,Irregular,1029,Monthly,31.6,Pucca,8,1.3,Daily Wage
+939,Irregular,853,Monthly,44.9,Pucca,7,2.5,Daily Wage
+940,Regular,653,Ad-hoc,49.9,Pucca,4,3.0,Daily Wage
+941,Irregular,914,Ad-hoc,38.0,Pucca,8,2.5,Agriculture
+942,Regular,1209,Weekly,25.9,Semi-pucca,7,1.5,Salaried
+943,Regular,1030,Weekly,21.7,Semi-pucca,8,1.6,Business
+944,Defaulted,663,Ad-hoc,63.4,Pucca,3,2.5,Daily Wage
+945,Irregular,910,Ad-hoc,30.2,Pucca,8,1.7,Daily Wage
+946,Regular,1121,Ad-hoc,35.3,Semi-pucca,7,1.8,Agriculture
+947,Regular,1006,Weekly,19.6,Pucca,7,2.0,Salaried
+948,Regular,1268,Bi-weekly,19.5,Pucca,7,1.3,Business
+949,Regular,1411,Weekly,12.0,Kutcha,7,1.5,Salaried
+950,Regular,1037,Weekly,28.8,Pucca,7,1.5,Salaried
+951,Defaulted,1089,Bi-weekly,19.5,Kutcha,9,1.4,Salaried
+952,Regular,1222,Bi-weekly,22.2,Pucca,9,1.2,Salaried
+953,Irregular,1082,Monthly,49.2,Semi-pucca,5,2.3,Daily Wage
+954,Regular,1494,Bi-weekly,8.5,Pucca,8,1.5,Salaried
+955,Regular,1201,Bi-weekly,17.1,Pucca,7,1.5,Business
+956,Regular,916,Monthly,32.8,Pucca,8,1.7,Daily Wage
+957,Irregular,1021,Ad-hoc,31.5,Pucca,6,1.5,Agriculture
+958,Irregular,548,Ad-hoc,55.9,Pucca,5,2.5,Daily Wage
+959,Regular,1259,Bi-weekly,5.7,Pucca,8,1.5,Salaried
+960,Regular,889,Monthly,52.2,Pucca,5,2.0,Agriculture
+961,Regular,1226,Bi-weekly,11.1,Semi-pucca,8,1.0,Salaried
+962,Regular,1066,Bi-weekly,22.7,Pucca,9,1.7,Salaried
+963,Regular,1301,Weekly,8.2,Pucca,10,1.3,Business
+964,Irregular,1339,Weekly,2.0,Pucca,9,1.2,Salaried
+965,Irregular,939,Ad-hoc,51.5,Pucca,5,2.0,Daily Wage
+966,Regular,1046,Bi-weekly,15.2,Pucca,8,1.3,Business
+967,Irregular,1031,Monthly,40.2,Pucca,4,1.8,Daily Wage
+968,Regular,1180,Weekly,19.3,Semi-pucca,7,1.5,Salaried
+969,Defaulted,836,Ad-hoc,56.8,Pucca,5,1.6,Daily Wage
+970,Regular,977,Weekly,20.7,Pucca,8,1.2,Salaried
+971,Regular,1256,Weekly,24.3,Semi-pucca,8,1.4,Business
+972,Regular,1290,Weekly,16.9,Semi-pucca,8,1.0,Salaried
+973,Irregular,1502,Bi-weekly,12.0,Pucca,10,1.2,Business
+974,Defaulted,812,Bi-weekly,42.8,Kutcha,6,1.7,Daily Wage
+975,Irregular,1009,Bi-weekly,28.1,Pucca,8,1.4,Salaried
+976,Regular,1122,Bi-weekly,2.6,Semi-pucca,8,1.2,Salaried
+977,Regular,651,Monthly,57.6,Semi-pucca,0,4.0,Daily Wage
+978,Regular,1329,Weekly,24.7,Pucca,8,1.3,Business
+979,Regular,1302,Weekly,12.7,Kutcha,7,1.3,Salaried
+980,Regular,1213,Weekly,7.7,Pucca,9,1.3,Business
+981,Regular,1273,Bi-weekly,13.2,Pucca,8,1.5,Business
+982,Irregular,1014,Ad-hoc,34.2,Semi-pucca,8,1.0,Daily Wage
+983,Regular,646,Bi-weekly,44.2,Pucca,6,1.7,Agriculture
+984,Irregular,906,Bi-weekly,22.9,Pucca,8,3.0,Pension
+985,Irregular,660,Ad-hoc,81.3,Semi-pucca,3,3.5,Daily Wage
+986,Regular,1274,Weekly,20.8,Pucca,8,1.0,Business
+987,Regular,905,Weekly,26.1,Pucca,7,1.4,Salaried
+988,Regular,1261,Bi-weekly,11.0,Pucca,10,1.2,Salaried
+989,Regular,1023,Bi-weekly,25.1,Pucca,6,1.3,Salaried
+990,Irregular,1044,Ad-hoc,46.2,Semi-pucca,6,2.0,Daily Wage
+991,Irregular,777,Monthly,62.2,Kutcha,2,1.8,Agriculture
+992,Defaulted,807,Ad-hoc,39.8,Pucca,6,2.0,Daily Wage
+993,Irregular,1352,Weekly,5.9,Pucca,10,1.5,Salaried
+994,Regular,1284,Weekly,10.0,Semi-pucca,10,1.2,Salaried
+995,Irregular,1330,Bi-weekly,5.9,Semi-pucca,8,1.2,Salaried
+996,Regular,1174,Weekly,14.0,Pucca,8,1.3,Business
+997,Irregular,1203,Bi-weekly,18.1,Semi-pucca,9,1.2,Salaried
+998,Irregular,1148,Weekly,12.1,Pucca,9,1.2,Business
+999,Irregular,815,Ad-hoc,38.0,Kutcha,6,1.6,Agriculture
+1000,Regular,1098,Bi-weekly,11.6,Pucca,8,1.2,Salaried
+1001,Regular,874,Ad-hoc,34.4,Pucca,6,1.0,Agriculture
+1002,Defaulted,992,Bi-weekly,42.4,Pucca,7,2.0,Daily Wage
+1003,Regular,1217,Bi-weekly,22.3,Semi-pucca,8,1.4,Salaried
+1004,Regular,1058,Monthly,49.7,Semi-pucca,5,1.5,Daily Wage
+1005,Regular,964,Ad-hoc,36.7,Pucca,6,1.8,Daily Wage
+1006,Regular,1303,Bi-weekly,17.7,Pucca,7,1.5,Salaried
+1007,Regular,1122,Weekly,25.8,Semi-pucca,9,1.8,Business
+1008,Regular,1233,Weekly,18.9,Semi-pucca,9,2.0,Salaried
+1009,Regular,1056,Ad-hoc,41.6,Semi-pucca,9,1.5,Daily Wage
+1010,Irregular,1070,Ad-hoc,37.4,Semi-pucca,5,1.5,Agriculture
+1011,Regular,1067,Monthly,31.6,Pucca,8,1.4,Agriculture
+1012,Regular,1221,Bi-weekly,8.4,Pucca,8,1.4,Business
+1013,Regular,1251,Bi-weekly,17.0,Semi-pucca,8,1.5,Pension
+1014,Regular,1428,Bi-weekly,14.8,Pucca,10,1.3,Salaried
+1015,Regular,1380,Weekly,4.0,Pucca,7,1.0,Business
+1016,Regular,1231,Bi-weekly,10.3,Pucca,9,1.0,Salaried
+1017,Regular,1399,Bi-weekly,10.5,Pucca,8,1.5,Business
+1018,Regular,955,Bi-weekly,22.8,Pucca,7,1.0,Business
+1019,Regular,905,Ad-hoc,40.4,Semi-pucca,6,2.0,Agriculture
+1020,Regular,1058,Weekly,18.5,Pucca,9,1.3,Salaried
+1021,Irregular,1123,Weekly,23.6,Pucca,7,1.7,Salaried
+1022,Irregular,1315,Weekly,23.6,Pucca,8,1.4,Salaried
+1023,Regular,1208,Weekly,25.6,Pucca,8,1.5,Salaried
+1024,Regular,833,Weekly,27.7,Pucca,7,1.7,Salaried
+1025,Regular,771,Ad-hoc,49.3,Semi-pucca,4,1.6,Business
+1026,Regular,943,Bi-weekly,22.5,Pucca,9,1.7,Salaried
+1027,Regular,1000,Monthly,49.8,Semi-pucca,5,2.0,Daily Wage
+1028,Regular,1020,Weekly,27.1,Semi-pucca,8,1.7,Salaried
+1029,Regular,1141,Weekly,24.5,Pucca,7,1.5,Business
+1030,Irregular,639,Ad-hoc,70.7,Kutcha,2,4.0,Daily Wage
+1031,Defaulted,944,Ad-hoc,44.1,Pucca,5,2.0,Daily Wage
+1032,Regular,947,Weekly,4.3,Pucca,8,2.0,Salaried
+1033,Irregular,1078,Ad-hoc,33.8,Semi-pucca,5,1.5,Agriculture
+1034,Defaulted,1202,Weekly,10.9,Pucca,8,1.2,Salaried
+1035,Regular,1211,Weekly,27.9,Semi-pucca,8,1.4,Salaried
+1036,Irregular,1292,Weekly,12.3,Semi-pucca,8,2.0,Salaried
+1037,Regular,1146,Ad-hoc,31.1,Pucca,6,1.3,Daily Wage
+1038,Regular,659,Bi-weekly,58.1,Pucca,3,2.0,Agriculture
+1039,Irregular,854,Bi-weekly,35.2,Semi-pucca,6,1.5,Daily Wage
+1040,Regular,1291,Weekly,21.2,Pucca,7,1.4,Salaried
+1041,Regular,1269,Weekly,19.1,Pucca,10,1.0,Business
+1042,Irregular,849,Ad-hoc,52.9,Kutcha,6,2.0,Daily Wage
+1043,Regular,1052,Monthly,34.4,Pucca,8,1.5,Agriculture
+1044,Irregular,898,Ad-hoc,50.9,Kutcha,6,1.7,Agriculture
+1045,Irregular,791,Monthly,38.9,Semi-pucca,5,2.0,Daily Wage
+1046,Regular,1277,Weekly,24.9,Semi-pucca,6,3.0,Salaried
+1047,Irregular,1019,Monthly,32.6,Pucca,5,1.3,Daily Wage
+1048,Defaulted,704,Monthly,61.6,Pucca,5,2.5,Agriculture
+1049,Regular,1051,Weekly,26.4,Pucca,7,1.5,Business
+1050,Defaulted,853,Weekly,18.2,Pucca,7,1.2,Business
+1051,Regular,1291,Monthly,17.2,Pucca,8,1.5,Salaried
+1052,Irregular,823,Ad-hoc,39.7,Pucca,6,2.0,Daily Wage
+1053,Regular,1192,Monthly,20.2,Pucca,8,1.6,Business
+1054,Regular,1033,Weekly,22.9,Pucca,8,1.7,Business
+1055,Irregular,842,Monthly,46.3,Semi-pucca,4,1.7,Business
+1056,Regular,1232,Weekly,10.1,Pucca,10,1.5,Salaried
+1057,Regular,974,Bi-weekly,28.0,Pucca,6,3.0,Salaried
+1058,Irregular,827,Ad-hoc,49.1,Semi-pucca,5,1.7,Daily Wage
+1059,Regular,985,Ad-hoc,31.6,Kutcha,8,2.0,Daily Wage
+1060,Regular,944,Weekly,28.2,Pucca,6,1.4,Salaried
+1061,Regular,1149,Monthly,37.7,Pucca,6,1.5,Agriculture
+1062,Irregular,932,Bi-weekly,32.3,Pucca,7,1.5,Daily Wage
+1063,Regular,1208,Weekly,24.5,Semi-pucca,7,1.4,Business
+1064,Regular,1437,Weekly,5.1,Semi-pucca,9,1.2,Salaried
+1065,Regular,1101,Monthly,38.9,Semi-pucca,7,1.7,Daily Wage
+1066,Regular,1223,Weekly,9.1,Pucca,10,1.2,Salaried
+1067,Defaulted,924,Monthly,40.7,Semi-pucca,7,1.8,Daily Wage
+1068,Regular,1322,Weekly,4.9,Pucca,10,1.3,Salaried
+1069,Regular,1326,Bi-weekly,13.4,Pucca,9,1.2,Salaried
+1070,Irregular,1023,Bi-weekly,31.1,Semi-pucca,6,1.2,Daily Wage
+1071,Regular,1205,Weekly,23.5,Kutcha,8,1.3,Salaried
+1072,Irregular,1136,Bi-weekly,20.7,Pucca,8,1.5,Salaried
+1073,Irregular,806,Ad-hoc,68.2,Pucca,4,3.0,Agriculture
+1074,Irregular,944,Bi-weekly,41.3,Semi-pucca,6,1.8,Business
+1075,Irregular,1323,Monthly,5.3,Semi-pucca,10,2.0,Salaried
+1076,Defaulted,907,Monthly,49.1,Semi-pucca,5,2.0,Agriculture
+1077,Regular,1128,Monthly,45.5,Pucca,6,1.7,Daily Wage
+1078,Irregular,918,Monthly,36.1,Pucca,5,1.7,Daily Wage
+1079,Regular,1338,Weekly,18.8,Pucca,8,1.4,Salaried
+1080,Irregular,849,Ad-hoc,39.6,Pucca,8,1.7,Daily Wage
+1081,Regular,1093,Weekly,28.4,Semi-pucca,8,1.5,Salaried
+1082,Irregular,808,Monthly,43.7,Semi-pucca,6,2.0,Daily Wage
+1083,Regular,1191,Monthly,14.2,Semi-pucca,10,1.2,Business
+1084,Regular,1112,Weekly,17.5,Pucca,7,2.0,Salaried
+1085,Defaulted,1377,Bi-weekly,10.9,Semi-pucca,8,1.2,Salaried
+1086,Regular,1164,Weekly,15.1,Pucca,10,1.3,Business
+1087,Irregular,1254,Weekly,20.0,Semi-pucca,8,1.7,Salaried
+1088,Irregular,970,Monthly,32.4,Pucca,6,3.0,Daily Wage
+1089,Regular,1231,Bi-weekly,15.2,Pucca,7,1.3,Business
+1090,Regular,1305,Bi-weekly,27.2,Pucca,8,1.5,Salaried
+1091,Regular,762,Bi-weekly,48.5,Semi-pucca,6,2.0,Daily Wage
+1092,Irregular,902,Bi-weekly,36.0,Pucca,5,1.2,Business
+1093,Regular,1149,Monthly,19.7,Pucca,8,1.0,Salaried
+1094,Regular,1380,Monthly,1.6,Kutcha,9,1.4,Salaried
+1095,Regular,1178,Bi-weekly,28.0,Pucca,8,2.0,Business
+1096,Regular,1201,Bi-weekly,18.6,Semi-pucca,7,1.5,Business
+1097,Regular,1305,Bi-weekly,11.7,Kutcha,10,1.5,Salaried
+1098,Regular,922,Weekly,28.7,Pucca,8,1.0,Salaried
+1099,Defaulted,944,Ad-hoc,45.2,Semi-pucca,5,1.7,Daily Wage
+1100,Irregular,1257,Bi-weekly,17.2,Pucca,8,1.3,Business
+1101,Regular,1032,Ad-hoc,42.0,Pucca,6,2.0,Agriculture
+1102,Regular,1097,Weekly,23.3,Pucca,7,1.5,Salaried
+1103,Regular,1021,Ad-hoc,34.3,Kutcha,6,1.5,Daily Wage
+1104,Irregular,970,Ad-hoc,48.0,Pucca,5,2.0,Daily Wage
+1105,Regular,1234,Bi-weekly,1.6,Pucca,10,1.2,Business
+1106,Defaulted,761,Ad-hoc,35.2,Semi-pucca,8,2.0,Business
+1107,Regular,521,Ad-hoc,65.8,Kutcha,5,4.0,Daily Wage
+1108,Regular,718,Ad-hoc,53.8,Pucca,5,1.7,Daily Wage
+1109,Regular,1415,Weekly,12.3,Pucca,7,1.2,Salaried
+1110,Irregular,1336,Bi-weekly,31.6,Pucca,7,1.5,Daily Wage
+1111,Defaulted,482,Ad-hoc,71.8,Kutcha,4,2.0,Daily Wage
+1112,Regular,1157,Monthly,21.0,Semi-pucca,6,1.7,Salaried
+1113,Irregular,798,Bi-weekly,48.0,Kutcha,6,2.0,Agriculture
+1114,Irregular,1136,Ad-hoc,30.1,Pucca,10,1.7,Business
+1115,Regular,1197,Weekly,22.0,Pucca,9,1.4,Salaried
+1116,Regular,751,Bi-weekly,47.8,Pucca,7,3.0,Daily Wage
+1117,Regular,788,Ad-hoc,47.7,Pucca,5,1.5,Daily Wage
+1118,Regular,1236,Bi-weekly,13.0,Pucca,10,1.4,Business
+1119,Irregular,988,Ad-hoc,53.0,Pucca,4,2.0,Agriculture
+1120,Regular,1302,Monthly,0.5,Pucca,10,1.0,Business
+1121,Regular,947,Weekly,21.4,Kutcha,9,2.0,Salaried
+1122,Regular,1262,Weekly,29.1,Pucca,7,1.2,Salaried
+1123,Regular,1237,Monthly,21.1,Semi-pucca,9,1.2,Salaried
+1124,Regular,929,Bi-weekly,28.0,Pucca,7,1.3,Business
+1125,Regular,1241,Weekly,18.4,Pucca,8,1.7,Pension
+1126,Regular,1224,Bi-weekly,26.3,Semi-pucca,7,1.5,Business
+1127,Irregular,951,Ad-hoc,42.0,Pucca,5,1.5,Business
+1128,Regular,1285,Bi-weekly,27.8,Pucca,7,1.7,Salaried
+1129,Regular,791,Ad-hoc,62.4,Semi-pucca,2,2.0,Agriculture
+1130,Regular,1140,Weekly,27.5,Pucca,9,1.5,Salaried
+1131,Regular,1174,Weekly,23.1,Semi-pucca,8,1.4,Salaried
+1132,Irregular,593,Ad-hoc,75.0,Kutcha,2,2.3,Daily Wage
+1133,Regular,986,Ad-hoc,48.8,Pucca,4,1.6,Daily Wage
+1134,Irregular,954,Monthly,38.6,Pucca,6,2.0,Business
+1135,Regular,1458,Bi-weekly,6.8,Pucca,10,1.5,Salaried
+1136,Irregular,806,Ad-hoc,58.0,Pucca,5,2.3,Daily Wage
+1137,Irregular,950,Monthly,42.2,Semi-pucca,5,1.5,Daily Wage
+1138,Regular,1238,Bi-weekly,10.8,Pucca,8,1.7,Salaried
+1139,Irregular,947,Bi-weekly,37.4,Semi-pucca,7,2.0,Daily Wage
+1140,Regular,1293,Weekly,13.7,Pucca,8,1.2,Salaried
+1141,Irregular,955,Ad-hoc,53.3,Pucca,5,1.5,Daily Wage
+1142,Regular,865,Bi-weekly,55.0,Semi-pucca,5,2.5,Daily Wage
+1143,Defaulted,801,Monthly,45.3,Semi-pucca,6,2.5,Agriculture
+1144,Regular,971,Monthly,18.6,Kutcha,9,1.3,Salaried
+1145,Defaulted,1020,Ad-hoc,43.9,Kutcha,4,2.0,Agriculture
+1146,Regular,1679,Bi-weekly,8.8,Pucca,7,1.2,Salaried
+1147,Irregular,1028,Monthly,30.3,Pucca,6,1.7,Agriculture
+1148,Regular,1085,Weekly,22.7,Semi-pucca,10,1.5,Salaried
+1149,Regular,1271,Bi-weekly,22.1,Semi-pucca,10,1.3,Salaried
+1150,Regular,1176,Weekly,9.3,Semi-pucca,10,1.2,Salaried
+1151,Regular,1288,Bi-weekly,29.2,Pucca,7,1.0,Salaried
+1152,Regular,1315,Weekly,12.9,Kutcha,7,1.5,Business
+1153,Irregular,1183,Bi-weekly,19.3,Pucca,5,1.0,Salaried
+1154,Irregular,869,Bi-weekly,38.4,Semi-pucca,5,1.5,Daily Wage
+1155,Regular,1204,Weekly,29.0,Semi-pucca,7,1.4,Salaried
+1156,Regular,1121,Monthly,19.7,Pucca,10,1.3,Salaried
+1157,Regular,1354,Monthly,13.2,Semi-pucca,10,1.2,Business
+1158,Regular,1075,Monthly,34.6,Pucca,7,1.6,Daily Wage
+1159,Regular,1184,Ad-hoc,36.0,Kutcha,5,1.3,Daily Wage
+1160,Regular,1235,Bi-weekly,17.0,Pucca,7,1.3,Salaried
+1161,Regular,1608,Weekly,20.7,Kutcha,8,1.5,Salaried
+1162,Regular,1150,Weekly,29.8,Pucca,8,1.5,Business
+1163,Regular,1278,Weekly,12.9,Semi-pucca,9,1.3,Salaried
+1164,Irregular,987,Ad-hoc,32.6,Pucca,6,1.5,Agriculture
+1165,Regular,1399,Bi-weekly,11.2,Pucca,10,1.2,Salaried
+1166,Irregular,1189,Monthly,14.4,Pucca,9,1.2,Salaried
+1167,Regular,1283,Bi-weekly,0.7,Semi-pucca,9,1.2,Salaried
+1168,Regular,1181,Monthly,13.9,Pucca,8,1.5,Salaried
+1169,Regular,1321,Monthly,4.7,Pucca,10,2.0,Business
+1170,Regular,1494,Bi-weekly,20.1,Pucca,8,1.4,Business
+1171,Regular,1252,Weekly,17.2,Kutcha,10,1.7,Salaried
+1172,Regular,1250,Weekly,5.2,Pucca,10,1.3,Pension
+1173,Regular,1255,Bi-weekly,27.0,Pucca,7,1.8,Salaried
+1174,Irregular,845,Ad-hoc,52.8,Pucca,5,2.0,Daily Wage
+1175,Irregular,846,Monthly,66.8,Kutcha,3,2.0,Daily Wage
+1176,Regular,1600,Bi-weekly,6.1,Pucca,9,1.2,Business
+1177,Irregular,851,Ad-hoc,30.9,Pucca,6,1.5,Daily Wage
+1178,Irregular,679,Ad-hoc,35.3,Kutcha,7,2.0,Agriculture
+1179,Irregular,1234,Monthly,40.4,Semi-pucca,7,1.7,Daily Wage
+1180,Regular,1067,Bi-weekly,21.4,Pucca,9,1.5,Business
+1181,Irregular,787,Bi-weekly,34.1,Pucca,8,1.5,Daily Wage
+1182,Irregular,872,Bi-weekly,41.2,Semi-pucca,5,1.5,Daily Wage
+1183,Regular,634,Ad-hoc,57.2,Pucca,6,2.5,Daily Wage
+1184,Regular,969,Bi-weekly,29.3,Semi-pucca,6,1.3,Business
+1185,Regular,1476,Weekly,3.9,Pucca,8,1.2,Salaried
+1186,Regular,1104,Monthly,22.3,Pucca,6,1.5,Salaried
+1187,Defaulted,799,Monthly,34.0,Pucca,6,1.6,Agriculture
+1188,Regular,1202,Bi-weekly,18.4,Semi-pucca,8,1.0,Business
+1189,Irregular,853,Ad-hoc,38.9,Pucca,7,2.0,Daily Wage
+1190,Regular,1272,Weekly,8.5,Pucca,9,1.3,Salaried
+1191,Irregular,665,Monthly,64.3,Pucca,2,1.7,Daily Wage
+1192,Regular,1320,Monthly,18.0,Semi-pucca,8,1.4,Salaried
+1193,Regular,1220,Weekly,9.9,Semi-pucca,9,1.4,Salaried
+1194,Regular,1352,Weekly,13.2,Pucca,7,1.3,Salaried
+1195,Defaulted,641,Monthly,48.7,Semi-pucca,4,2.0,Agriculture
+1196,Regular,1369,Weekly,14.2,Semi-pucca,8,1.5,Salaried
+1197,Irregular,1229,Ad-hoc,32.0,Pucca,9,1.6,Daily Wage
+1198,Irregular,725,Bi-weekly,58.3,Semi-pucca,4,4.0,Daily Wage
+1199,Regular,1144,Bi-weekly,12.8,Pucca,10,1.2,Business
+1200,Defaulted,686,Monthly,51.1,Semi-pucca,3,2.0,Daily Wage
+1201,Defaulted,946,Ad-hoc,40.9,Pucca,7,1.8,Agriculture
+1202,Regular,1525,Bi-weekly,4.1,Semi-pucca,10,1.4,Business
+1203,Regular,858,Monthly,43.8,Semi-pucca,3,2.0,Daily Wage
+1204,Regular,1067,Ad-hoc,44.4,Pucca,5,1.5,Agriculture
+1205,Regular,1199,Weekly,3.6,Semi-pucca,10,1.5,Business
+1206,Regular,1064,Bi-weekly,26.0,Pucca,8,1.3,Salaried
+1207,Regular,1076,Monthly,28.8,Pucca,6,1.7,Salaried
+1208,Regular,1200,Bi-weekly,20.9,Pucca,8,1.7,Salaried
+1209,Regular,1149,Bi-weekly,18.5,Semi-pucca,7,1.2,Salaried
+1210,Regular,1495,Weekly,7.2,Semi-pucca,9,1.2,Business
+1211,Irregular,1194,Bi-weekly,34.8,Kutcha,8,1.3,Daily Wage
+1212,Regular,1365,Weekly,0.9,Semi-pucca,9,1.3,Salaried
+1213,Regular,1029,Monthly,27.1,Pucca,8,1.7,Business
+1214,Regular,1089,Monthly,20.6,Pucca,7,1.2,Business
+1215,Regular,1285,Weekly,23.5,Semi-pucca,7,1.2,Business
+1216,Regular,899,Monthly,37.0,Pucca,7,1.3,Daily Wage
+1217,Defaulted,967,Weekly,20.7,Pucca,9,1.4,Salaried
+1218,Irregular,851,Monthly,33.2,Semi-pucca,8,1.5,Daily Wage
+1219,Regular,1225,Weekly,24.4,Pucca,6,1.5,Salaried
+1220,Regular,1007,Bi-weekly,18.3,Semi-pucca,8,1.0,Salaried
+1221,Regular,1052,Monthly,26.5,Pucca,8,1.5,Salaried
+1222,Regular,1005,Ad-hoc,37.1,Semi-pucca,6,2.0,Agriculture
+1223,Defaulted,791,Ad-hoc,33.9,Kutcha,5,2.0,Agriculture
+1224,Irregular,1407,Bi-weekly,1.6,Pucca,10,1.2,Salaried
+1225,Irregular,947,Ad-hoc,37.0,Pucca,5,1.7,Agriculture
+1226,Defaulted,792,Monthly,30.9,Pucca,9,1.5,Agriculture
+1227,Regular,1389,Weekly,3.4,Semi-pucca,10,1.4,Salaried
+1228,Regular,1006,Monthly,40.8,Semi-pucca,7,1.7,Agriculture
+1229,Regular,1110,Bi-weekly,28.7,Semi-pucca,9,1.5,Business
+1230,Regular,780,Ad-hoc,62.7,Semi-pucca,4,2.0,Daily Wage
+1231,Irregular,1293,Bi-weekly,13.0,Pucca,10,1.7,Salaried
+1232,Regular,1097,Ad-hoc,36.8,Kutcha,8,1.5,Daily Wage
+1233,Irregular,1040,Weekly,20.7,Semi-pucca,8,1.7,Salaried
+1234,Irregular,652,Ad-hoc,50.2,Pucca,5,2.0,Agriculture
+1235,Regular,954,Monthly,25.7,Pucca,5,1.5,Salaried
+1236,Regular,621,Ad-hoc,60.4,Kutcha,4,2.2,Daily Wage
+1237,Regular,1596,Monthly,7.8,Semi-pucca,10,1.2,Business
+1238,Regular,962,Bi-weekly,29.6,Semi-pucca,8,1.3,Salaried
+1239,Irregular,921,Monthly,36.8,Kutcha,7,3.0,Daily Wage
+1240,Irregular,934,Monthly,39.3,Semi-pucca,5,2.0,Agriculture
+1241,Irregular,767,Ad-hoc,52.9,Semi-pucca,2,1.7,Daily Wage
+1242,Irregular,1313,Ad-hoc,31.0,Pucca,6,1.5,Daily Wage
+1243,Regular,1095,Weekly,5.7,Pucca,9,1.2,Business
+1244,Regular,1534,Bi-weekly,15.6,Semi-pucca,8,1.8,Salaried
+1245,Regular,1315,Bi-weekly,9.5,Pucca,10,2.0,Business
+1246,Regular,809,Bi-weekly,65.9,Semi-pucca,6,1.8,Business
+1247,Regular,1144,Weekly,23.5,Pucca,8,1.4,Business
+1248,Regular,1291,Weekly,20.2,Pucca,8,1.0,Salaried
+1249,Defaulted,892,Monthly,34.1,Pucca,6,1.3,Daily Wage
+1250,Defaulted,801,Bi-weekly,37.1,Pucca,6,1.8,Agriculture
+1251,Regular,1479,Weekly,25.8,Pucca,6,1.4,Business
+1252,Irregular,1306,Bi-weekly,32.8,Pucca,7,2.5,Daily Wage
+1253,Regular,790,Ad-hoc,42.0,Kutcha,6,1.7,Agriculture
+1254,Irregular,1356,Bi-weekly,13.1,Pucca,9,1.8,Salaried
+1255,Regular,1201,Ad-hoc,32.8,Pucca,7,1.2,Agriculture
+1256,Regular,1152,Ad-hoc,30.9,Pucca,7,1.0,Daily Wage
+1257,Defaulted,883,Ad-hoc,44.3,Semi-pucca,3,1.7,Daily Wage
+1258,Defaulted,1186,Ad-hoc,45.2,Pucca,6,1.0,Agriculture
+1259,Regular,1301,Monthly,17.7,Semi-pucca,7,1.3,Salaried
+1260,Regular,1197,Weekly,6.6,Semi-pucca,8,1.3,Business
+1261,Regular,1053,Monthly,26.6,Pucca,6,1.3,Business
+1262,Irregular,865,Ad-hoc,35.0,Pucca,7,1.5,Daily Wage
+1263,Irregular,817,Monthly,51.6,Kutcha,5,1.7,Daily Wage
+1264,Regular,1259,Weekly,11.0,Semi-pucca,7,1.3,Business
+1265,Regular,1436,Bi-weekly,6.3,Pucca,10,1.3,Salaried
+1266,Irregular,1357,Weekly,13.3,Pucca,7,1.3,Salaried
+1267,Regular,1390,Weekly,5.8,Pucca,10,1.5,Salaried
+1268,Irregular,1092,Ad-hoc,32.5,Pucca,7,1.8,Agriculture
+1269,Regular,1228,Bi-weekly,28.9,Pucca,8,1.4,Salaried
+1270,Irregular,979,Ad-hoc,35.3,Semi-pucca,9,1.8,Business
+1271,Irregular,917,Bi-weekly,13.4,Pucca,7,1.5,Salaried
+1272,Regular,1248,Ad-hoc,40.7,Pucca,6,2.0,Daily Wage
+1273,Regular,1100,Weekly,15.6,Semi-pucca,8,1.3,Salaried
+1274,Regular,1170,Bi-weekly,29.7,Semi-pucca,8,2.0,Salaried
+1275,Regular,644,Monthly,64.3,Pucca,4,2.2,Daily Wage
+1276,Regular,1439,Monthly,14.2,Semi-pucca,8,1.4,Salaried
+1277,Regular,1081,Weekly,16.7,Pucca,8,1.4,Business
+1278,Regular,1157,Bi-weekly,13.0,Semi-pucca,7,1.3,Salaried
+1279,Regular,1134,Weekly,17.8,Pucca,9,1.7,Salaried
+1280,Regular,1289,Bi-weekly,17.1,Pucca,9,1.3,Business
+1281,Irregular,1227,Monthly,18.5,Pucca,9,1.3,Business
+1282,Regular,1238,Weekly,21.9,Pucca,7,1.5,Business
+1283,Irregular,1045,Monthly,33.8,Kutcha,6,1.8,Daily Wage
+1284,Regular,1023,Ad-hoc,46.0,Pucca,4,1.8,Daily Wage
+1285,Defaulted,1201,Ad-hoc,30.1,Pucca,7,2.0,Daily Wage
+1286,Irregular,1346,Bi-weekly,24.1,Pucca,6,1.5,Business
+1287,Regular,1402,Weekly,4.2,Pucca,10,1.0,Business
+1288,Irregular,733,Monthly,64.9,Pucca,2,3.0,Agriculture
+1289,Regular,1338,Bi-weekly,28.1,Pucca,8,1.5,Salaried
+1290,Regular,1247,Weekly,29.1,Semi-pucca,9,1.5,Business
+1291,Irregular,871,Bi-weekly,54.6,Kutcha,5,1.4,Daily Wage
+1292,Regular,996,Weekly,19.0,Kutcha,8,1.0,Salaried
+1293,Regular,890,Bi-weekly,24.9,Pucca,6,1.5,Salaried
+1294,Irregular,1002,Ad-hoc,43.9,Semi-pucca,4,2.0,Daily Wage
+1295,Regular,981,Ad-hoc,46.4,Pucca,6,1.7,Business
+1296,Regular,1004,Bi-weekly,26.7,Pucca,9,1.7,Salaried
+1297,Regular,1139,Bi-weekly,28.2,Pucca,7,2.0,Salaried
+1298,Irregular,645,Monthly,56.9,Kutcha,3,2.3,Agriculture
+1299,Regular,1234,Bi-weekly,22.4,Semi-pucca,5,1.3,Salaried
+1300,Regular,1230,Weekly,23.1,Kutcha,7,2.0,Salaried
+1301,Defaulted,1094,Ad-hoc,35.3,Kutcha,6,1.5,Daily Wage
+1302,Regular,1191,Monthly,23.2,Semi-pucca,10,1.7,Salaried
+1303,Regular,1096,Monthly,23.8,Semi-pucca,8,1.7,Business
+1304,Irregular,968,Ad-hoc,36.5,Semi-pucca,7,1.5,Daily Wage
+1305,Irregular,1107,Ad-hoc,41.3,Pucca,5,1.8,Agriculture
+1306,Regular,1302,Monthly,14.1,Pucca,8,1.7,Salaried
+1307,Regular,1161,Weekly,27.9,Pucca,9,1.2,Pension
+1308,Regular,887,Ad-hoc,47.7,Semi-pucca,5,2.0,Daily Wage
+1309,Regular,1093,Monthly,36.2,Semi-pucca,4,1.7,Daily Wage
+1310,Regular,1208,Monthly,29.6,Pucca,6,1.6,Salaried
+1311,Regular,931,Bi-weekly,34.6,Kutcha,6,1.5,Daily Wage
+1312,Regular,1363,Weekly,10.8,Semi-pucca,8,1.2,Business
+1313,Regular,1118,Bi-weekly,22.7,Pucca,8,2.0,Business
+1314,Regular,1278,Weekly,15.1,Pucca,8,1.5,Business
+1315,Regular,1192,Weekly,29.5,Pucca,7,1.3,Business
+1316,Regular,606,Ad-hoc,53.6,Pucca,6,2.0,Daily Wage
+1317,Defaulted,1096,Bi-weekly,13.8,Semi-pucca,8,1.3,Salaried
+1318,Regular,1016,Weekly,26.4,Pucca,10,2.0,Salaried
+1319,Regular,1114,Bi-weekly,16.7,Pucca,8,1.5,Business
+1320,Regular,1235,Bi-weekly,12.9,Semi-pucca,9,1.5,Business
+1321,Regular,1277,Ad-hoc,32.7,Semi-pucca,6,1.2,Agriculture
+1322,Regular,1437,Bi-weekly,11.6,Pucca,9,1.3,Salaried
+1323,Regular,946,Bi-weekly,33.8,Semi-pucca,7,1.6,Daily Wage
+1324,Regular,1125,Monthly,36.0,Semi-pucca,7,1.0,Agriculture
+1325,Regular,1202,Weekly,17.4,Pucca,7,1.5,Salaried
+1326,Regular,1141,Weekly,27.8,Pucca,6,1.3,Business
+1327,Irregular,521,Monthly,67.4,Kutcha,6,3.0,Daily Wage
+1328,Regular,1175,Weekly,3.6,Pucca,9,1.3,Salaried
+1329,Irregular,1255,Bi-weekly,22.4,Pucca,9,1.3,Salaried
+1330,Regular,746,Ad-hoc,59.8,Semi-pucca,2,3.0,Agriculture
+1331,Irregular,1091,Ad-hoc,34.7,Semi-pucca,6,1.6,Agriculture
+1332,Regular,1179,Bi-weekly,40.3,Pucca,6,2.0,Daily Wage
+1333,Irregular,785,Bi-weekly,52.8,Pucca,5,1.7,Daily Wage
+1334,Irregular,861,Ad-hoc,46.0,Kutcha,2,1.8,Agriculture
+1335,Regular,1278,Bi-weekly,33.5,Pucca,7,1.6,Agriculture
+1336,Irregular,973,Ad-hoc,39.0,Kutcha,5,2.0,Agriculture
+1337,Regular,1126,Bi-weekly,14.7,Pucca,9,1.5,Pension
+1338,Regular,1246,Bi-weekly,23.4,Pucca,6,1.3,Salaried
+1339,Irregular,777,Monthly,53.6,Pucca,4,3.0,Daily Wage
+1340,Defaulted,684,Monthly,54.6,Pucca,4,2.0,Daily Wage
+1341,Regular,1089,Weekly,29.3,Pucca,6,1.3,Salaried
+1342,Regular,1229,Weekly,26.1,Pucca,7,1.5,Business
+1343,Regular,1076,Weekly,14.6,Pucca,7,1.5,Salaried
+1344,Regular,812,Ad-hoc,38.4,Pucca,4,2.0,Daily Wage
+1345,Regular,1347,Weekly,3.7,Pucca,10,1.2,Salaried
+1346,Regular,1078,Bi-weekly,15.3,Pucca,7,1.2,Business
+1347,Irregular,859,Monthly,32.9,Pucca,6,1.7,Agriculture
+1348,Regular,1067,Bi-weekly,30.3,Pucca,8,2.0,Daily Wage
+1349,Regular,1261,Weekly,26.6,Pucca,7,1.5,Salaried
+1350,Regular,1247,Weekly,23.9,Pucca,7,1.5,Business
+1351,Regular,1311,Weekly,6.7,Semi-pucca,10,1.2,Salaried
+1352,Irregular,983,Bi-weekly,54.2,Pucca,6,2.5,Daily Wage
+1353,Irregular,1459,Weekly,16.7,Semi-pucca,7,1.4,Salaried
+1354,Defaulted,1125,Monthly,31.3,Pucca,7,1.3,Daily Wage
+1355,Irregular,715,Ad-hoc,57.5,Semi-pucca,2,1.8,Daily Wage
+1356,Irregular,1151,Ad-hoc,42.5,Semi-pucca,5,1.5,Business
+1357,Irregular,948,Bi-weekly,60.3,Semi-pucca,4,2.0,Agriculture
+1358,Regular,1254,Weekly,16.4,Pucca,7,1.5,Business
+1359,Regular,1341,Bi-weekly,20.9,Pucca,7,1.7,Salaried
+1360,Irregular,761,Ad-hoc,48.1,Semi-pucca,4,2.3,Daily Wage
+1361,Regular,834,Monthly,25.1,Pucca,8,1.6,Salaried
+1362,Regular,1113,Weekly,13.7,Pucca,10,1.0,Salaried
+1363,Irregular,741,Monthly,62.5,Semi-pucca,2,1.7,Daily Wage
+1364,Regular,1178,Bi-weekly,19.2,Pucca,7,1.5,Salaried
+1365,Regular,1205,Bi-weekly,29.9,Pucca,8,1.5,Salaried
+1366,Regular,896,Weekly,26.8,Pucca,9,1.0,Salaried
+1367,Irregular,848,Ad-hoc,31.4,Semi-pucca,5,1.6,Agriculture
+1368,Irregular,1323,Weekly,16.6,Semi-pucca,8,1.0,Salaried
+1369,Regular,1160,Weekly,3.5,Pucca,10,1.0,Business
+1370,Regular,981,Monthly,34.6,Semi-pucca,6,1.2,Daily Wage
+1371,Irregular,1020,Bi-weekly,34.8,Kutcha,4,2.0,Agriculture
+1372,Irregular,1218,Bi-weekly,8.2,Pucca,10,1.5,Salaried
+1373,Regular,1243,Bi-weekly,21.6,Pucca,10,1.5,Salaried
+1374,Regular,1020,Bi-weekly,8.3,Semi-pucca,9,1.2,Salaried
+1375,Regular,1198,Monthly,41.7,Semi-pucca,5,2.3,Daily Wage
+1376,Regular,1257,Weekly,8.8,Pucca,9,1.5,Business
+1377,Irregular,987,Monthly,35.3,Kutcha,9,1.2,Agriculture
+1378,Regular,1356,Monthly,38.2,Pucca,7,1.7,Daily Wage
+1379,Regular,930,Bi-weekly,25.4,Semi-pucca,8,1.5,Salaried
+1380,Regular,586,Monthly,60.7,Semi-pucca,4,2.5,Daily Wage
+1381,Regular,1575,Bi-weekly,1.9,Kutcha,9,1.4,Salaried
+1382,Irregular,721,Ad-hoc,41.9,Pucca,6,1.3,Daily Wage
+1383,Irregular,1094,Bi-weekly,34.0,Semi-pucca,7,1.3,Agriculture
+1384,Regular,781,Ad-hoc,48.5,Semi-pucca,6,2.0,Daily Wage
+1385,Irregular,497,Monthly,61.5,Pucca,6,2.0,Agriculture
+1386,Regular,1163,Bi-weekly,28.2,Pucca,9,1.8,Salaried
+1387,Regular,1215,Bi-weekly,23.9,Pucca,6,1.0,Salaried
+1388,Irregular,809,Bi-weekly,53.7,Semi-pucca,5,1.8,Agriculture
+1389,Regular,1503,Bi-weekly,16.9,Pucca,9,1.7,Salaried
+1390,Regular,827,Ad-hoc,42.2,Semi-pucca,7,1.0,Daily Wage
+1391,Regular,1162,Bi-weekly,32.6,Semi-pucca,6,1.0,Agriculture
+1392,Regular,822,Ad-hoc,56.7,Semi-pucca,8,2.0,Daily Wage
+1393,Regular,1457,Weekly,7.1,Semi-pucca,8,1.4,Salaried
+1394,Regular,1261,Bi-weekly,6.2,Pucca,8,1.4,Business
+1395,Regular,977,Monthly,20.8,Kutcha,8,1.5,Business
+1396,Regular,998,Bi-weekly,27.8,Semi-pucca,10,1.7,Salaried
+1397,Defaulted,964,Monthly,38.8,Pucca,5,1.7,Daily Wage
+1398,Regular,1344,Weekly,13.7,Pucca,8,1.3,Salaried
+1399,Regular,1355,Weekly,4.3,Pucca,10,1.3,Business
+1400,Defaulted,657,Ad-hoc,70.3,Kutcha,3,2.0,Daily Wage
+1401,Regular,1418,Bi-weekly,20.3,Pucca,8,1.3,Salaried
+1402,Irregular,886,Monthly,46.4,Semi-pucca,6,2.0,Agriculture
+1403,Regular,1193,Monthly,12.0,Semi-pucca,9,1.3,Salaried
+1404,Irregular,1210,Weekly,22.8,Pucca,9,1.4,Salaried
+1405,Regular,1061,Bi-weekly,9.0,Pucca,10,1.2,Business
+1406,Regular,445,Ad-hoc,64.9,Kutcha,4,2.0,Daily Wage
+1407,Regular,1176,Bi-weekly,18.6,Pucca,8,1.0,Salaried
+1408,Regular,1192,Bi-weekly,7.0,Kutcha,10,1.3,Salaried
+1409,Defaulted,715,Monthly,54.5,Pucca,5,1.7,Agriculture
+1410,Regular,1302,Monthly,20.8,Kutcha,8,2.0,Salaried
+1411,Irregular,830,Monthly,58.5,Pucca,4,2.0,Daily Wage
+1412,Regular,1012,Ad-hoc,34.3,Pucca,8,1.5,Agriculture
+1413,Regular,1095,Bi-weekly,28.7,Pucca,9,1.8,Salaried
+1414,Defaulted,878,Bi-weekly,42.0,Semi-pucca,4,1.7,Agriculture
+1415,Regular,1345,Bi-weekly,15.7,Semi-pucca,8,2.0,Salaried
+1416,Regular,1296,Bi-weekly,19.5,Pucca,7,1.2,Salaried
+1417,Regular,1207,Ad-hoc,30.1,Semi-pucca,7,2.0,Daily Wage
+1418,Defaulted,1073,Ad-hoc,41.7,Semi-pucca,6,1.3,Daily Wage
+1419,Regular,1100,Monthly,27.9,Pucca,8,2.0,Salaried
+1420,Irregular,1253,Weekly,4.4,Semi-pucca,9,1.2,Salaried
+1421,Irregular,1037,Ad-hoc,30.9,Pucca,5,1.5,Agriculture
+1422,Regular,1174,Weekly,22.0,Pucca,7,1.5,Salaried
+1423,Regular,999,Bi-weekly,27.8,Semi-pucca,8,2.0,Business
+1424,Regular,1355,Weekly,24.8,Semi-pucca,4,1.5,Salaried
+1425,Regular,1360,Weekly,24.4,Kutcha,9,1.8,Salaried
+1426,Regular,1067,Weekly,28.7,Semi-pucca,8,2.0,Salaried
+1427,Regular,1041,Monthly,45.7,Pucca,7,2.0,Agriculture
+1428,Irregular,1351,Weekly,11.6,Semi-pucca,9,1.2,Salaried
+1429,Irregular,1095,Bi-weekly,21.3,Pucca,5,1.7,Business
+1430,Irregular,1337,Weekly,10.9,Kutcha,9,1.2,Business
+1431,Regular,1063,Bi-weekly,20.7,Pucca,9,1.4,Salaried
+1432,Regular,970,Weekly,27.9,Pucca,8,1.4,Salaried
+1433,Regular,1338,Weekly,11.7,Pucca,8,1.2,Salaried
+1434,Regular,1121,Monthly,31.5,Pucca,7,3.0,Agriculture
+1435,Defaulted,1429,Monthly,31.6,Pucca,6,1.0,Daily Wage
+1436,Irregular,1230,Weekly,13.4,Semi-pucca,8,1.3,Business
+1437,Regular,1080,Monthly,22.3,Semi-pucca,9,1.5,Business
+1438,Irregular,1480,Weekly,4.4,Pucca,8,1.0,Salaried
+1439,Regular,1246,Bi-weekly,13.7,Semi-pucca,8,3.0,Salaried
+1440,Regular,1096,Weekly,19.4,Pucca,7,1.3,Business
+1441,Irregular,1125,Monthly,17.5,Pucca,6,1.3,Business
+1442,Regular,1309,Weekly,5.9,Pucca,10,2.0,Business
+1443,Regular,1434,Monthly,10.2,Semi-pucca,10,1.4,Salaried
+1444,Regular,1216,Weekly,22.2,Semi-pucca,8,1.5,Salaried
+1445,Irregular,733,Bi-weekly,50.0,Semi-pucca,3,2.0,Daily Wage
+1446,Irregular,1215,Ad-hoc,40.1,Semi-pucca,7,2.0,Agriculture
+1447,Regular,974,Bi-weekly,27.1,Pucca,9,1.7,Salaried
+1448,Irregular,898,Bi-weekly,36.2,Semi-pucca,6,2.5,Daily Wage
+1449,Regular,985,Monthly,52.5,Pucca,4,1.5,Agriculture
+1450,Regular,1506,Bi-weekly,9.4,Pucca,10,1.2,Salaried
+1451,Defaulted,853,Bi-weekly,54.2,Semi-pucca,7,2.0,Daily Wage
+1452,Regular,805,Monthly,37.6,Kutcha,6,1.6,Daily Wage
+1453,Regular,910,Ad-hoc,45.7,Semi-pucca,4,3.0,Daily Wage
+1454,Regular,1097,Bi-weekly,10.1,Pucca,10,1.3,Salaried
+1455,Irregular,1529,Weekly,19.8,Pucca,9,2.0,Salaried
+1456,Irregular,954,Ad-hoc,44.2,Kutcha,6,1.0,Business
+1457,Irregular,1232,Weekly,25.5,Semi-pucca,7,1.6,Business
+1458,Regular,1093,Weekly,23.1,Semi-pucca,9,1.3,Salaried
+1459,Irregular,1073,Monthly,52.7,Semi-pucca,5,1.5,Daily Wage
+1460,Regular,1073,Monthly,23.3,Semi-pucca,7,1.5,Salaried
+1461,Regular,937,Bi-weekly,31.1,Pucca,7,1.5,Agriculture
+1462,Irregular,865,Bi-weekly,52.5,Pucca,3,1.8,Agriculture
+1463,Irregular,907,Ad-hoc,56.0,Pucca,5,2.0,Agriculture
+1464,Regular,1555,Weekly,13.0,Pucca,8,1.3,Business
+1465,Regular,1376,Bi-weekly,22.7,Semi-pucca,7,1.3,Business
+1466,Regular,1133,Ad-hoc,39.4,Kutcha,6,2.0,Business
+1467,Regular,647,Ad-hoc,59.7,Pucca,4,2.0,Daily Wage
+1468,Regular,1155,Weekly,13.3,Pucca,10,1.7,Salaried
+1469,Irregular,834,Ad-hoc,40.3,Pucca,7,1.5,Daily Wage
+1470,Regular,1116,Monthly,23.9,Pucca,7,1.4,Pension
+1471,Regular,559,Bi-weekly,52.1,Semi-pucca,6,2.5,Daily Wage
+1472,Regular,1431,Bi-weekly,14.5,Semi-pucca,9,1.7,Business
+1473,Irregular,673,Monthly,53.0,Kutcha,4,2.0,Business
+1474,Irregular,809,Monthly,39.1,Semi-pucca,6,1.8,Agriculture
+1475,Irregular,1108,Monthly,21.3,Semi-pucca,8,1.3,Business
+1476,Regular,1136,Bi-weekly,6.9,Pucca,10,1.5,Business
+1477,Regular,1105,Monthly,35.0,Pucca,6,1.4,Business
+1478,Regular,985,Bi-weekly,25.4,Pucca,7,1.5,Salaried
+1479,Regular,1415,Bi-weekly,5.0,Pucca,10,1.5,Salaried
+1480,Defaulted,936,Ad-hoc,53.9,Semi-pucca,6,1.2,Daily Wage
+1481,Regular,1083,Weekly,21.8,Pucca,7,1.5,Salaried
+1482,Regular,736,Monthly,51.2,Pucca,6,2.0,Daily Wage
+1483,Regular,887,Monthly,36.4,Pucca,7,1.8,Agriculture
+1484,Irregular,649,Ad-hoc,54.5,Kutcha,5,2.0,Agriculture
+1485,Regular,1317,Weekly,2.1,Pucca,10,1.2,Salaried
+1486,Irregular,1075,Bi-weekly,30.4,Semi-pucca,8,1.5,Daily Wage
+1487,Irregular,489,Ad-hoc,65.2,Semi-pucca,4,2.0,Daily Wage
+1488,Regular,1154,Monthly,14.1,Pucca,9,1.5,Salaried
+1489,Regular,1093,Bi-weekly,29.9,Pucca,8,1.4,Salaried
+1490,Regular,1300,Monthly,9.4,Semi-pucca,9,1.2,Salaried
+1491,Irregular,327,Ad-hoc,63.6,Semi-pucca,4,2.3,Agriculture
+1492,Regular,1248,Bi-weekly,21.8,Semi-pucca,8,1.3,Salaried
+1493,Irregular,1226,Ad-hoc,31.5,Pucca,7,1.5,Daily Wage
+1494,Regular,1033,Monthly,26.1,Pucca,7,1.3,Business
+1495,Irregular,692,Ad-hoc,42.2,Kutcha,5,2.0,Agriculture
+1496,Regular,1105,Weekly,17.1,Semi-pucca,7,1.3,Salaried
+1497,Regular,1006,Weekly,25.7,Kutcha,6,1.8,Business
+1498,Regular,1276,Weekly,26.5,Pucca,6,1.3,Salaried
+1499,Regular,1180,Monthly,6.1,Semi-pucca,8,1.3,Pension
+1500,Regular,1306,Bi-weekly,4.0,Semi-pucca,9,1.5,Business
+1501,Irregular,1265,Ad-hoc,33.5,Kutcha,7,2.0,Agriculture
+1502,Regular,1371,Bi-weekly,4.6,Pucca,9,1.2,Salaried
+1503,Regular,1175,Weekly,22.9,Pucca,5,1.5,Salaried
+1504,Regular,1245,Bi-weekly,12.8,Semi-pucca,10,1.5,Salaried
+1505,Regular,1220,Weekly,28.8,Pucca,8,1.2,Salaried
+1506,Defaulted,1000,Monthly,41.5,Semi-pucca,6,2.0,Agriculture
+1507,Irregular,1205,Ad-hoc,41.3,Semi-pucca,8,2.0,Daily Wage
+1508,Irregular,1318,Ad-hoc,32.4,Pucca,6,1.5,Daily Wage
+1509,Irregular,1099,Ad-hoc,31.4,Pucca,9,2.0,Agriculture
+1510,Regular,910,Monthly,44.0,Pucca,4,2.0,Daily Wage
+1511,Regular,1069,Ad-hoc,32.1,Semi-pucca,7,1.2,Daily Wage
+1512,Regular,1122,Weekly,18.1,Pucca,7,1.2,Salaried
+1513,Regular,1368,Bi-weekly,4.6,Pucca,10,1.4,Salaried
+1514,Regular,663,Monthly,48.6,Pucca,6,1.7,Daily Wage
+1515,Defaulted,583,Ad-hoc,65.2,Pucca,3,3.0,Business
+1516,Regular,1297,Weekly,19.3,Pucca,9,1.7,Salaried
+1517,Irregular,1248,Weekly,20.6,Semi-pucca,8,1.7,Salaried
+1518,Defaulted,1336,Bi-weekly,4.1,Pucca,9,1.0,Salaried
+1519,Regular,1232,Bi-weekly,20.6,Semi-pucca,7,1.3,Salaried
+1520,Regular,1334,Bi-weekly,25.1,Pucca,8,1.7,Salaried
+1521,Regular,1195,Bi-weekly,13.7,Pucca,8,1.2,Business
+1522,Irregular,1055,Monthly,13.0,Pucca,10,2.0,Business
+1523,Regular,1188,Monthly,27.2,Pucca,9,1.4,Salaried
+1524,Regular,1204,Weekly,24.6,Semi-pucca,6,1.4,Salaried
+1525,Regular,1351,Weekly,14.1,Semi-pucca,10,1.3,Salaried
+1526,Irregular,697,Ad-hoc,48.6,Semi-pucca,8,1.8,Daily Wage
+1527,Regular,1173,Weekly,1.5,Pucca,10,1.0,Salaried
+1528,Irregular,937,Monthly,45.4,Pucca,6,1.2,Agriculture
+1529,Irregular,1270,Weekly,14.2,Pucca,10,1.5,Salaried
+1530,Regular,1084,Weekly,24.1,Kutcha,7,1.6,Salaried
+1531,Defaulted,1235,Ad-hoc,33.4,Pucca,7,1.8,Daily Wage
+1532,Regular,1089,Weekly,28.1,Semi-pucca,6,1.7,Business
+1533,Irregular,1345,Weekly,20.6,Pucca,8,1.5,Salaried
+1534,Regular,1319,Monthly,18.5,Pucca,9,1.3,Salaried
+1535,Regular,976,Monthly,24.6,Pucca,8,1.3,Business
+1536,Regular,793,Ad-hoc,43.8,Pucca,7,2.0,Daily Wage
+1537,Irregular,836,Monthly,34.9,Semi-pucca,6,2.0,Daily Wage
+1538,Irregular,1330,Weekly,11.8,Pucca,8,2.0,Salaried
+1539,Regular,803,Bi-weekly,55.5,Semi-pucca,7,2.0,Daily Wage
+1540,Regular,1504,Weekly,7.7,Pucca,9,1.5,Salaried
+1541,Regular,950,Monthly,48.4,Kutcha,5,2.0,Daily Wage
+1542,Regular,813,Ad-hoc,36.8,Pucca,6,1.5,Agriculture
+1543,Regular,1245,Monthly,8.1,Semi-pucca,8,1.2,Salaried
+1544,Irregular,603,Ad-hoc,45.6,Kutcha,7,3.0,Daily Wage
+1545,Regular,1029,Ad-hoc,37.4,Kutcha,6,1.3,Daily Wage
+1546,Irregular,1416,Ad-hoc,34.0,Semi-pucca,5,1.8,Business
+1547,Irregular,1256,Bi-weekly,14.7,Semi-pucca,8,1.7,Pension
+1548,Regular,1134,Monthly,26.7,Pucca,5,1.2,Pension
+1549,Regular,1221,Bi-weekly,16.0,Pucca,8,1.5,Salaried
+1550,Irregular,1114,Bi-weekly,30.5,Pucca,6,1.8,Agriculture
+1551,Regular,1263,Weekly,10.4,Pucca,10,1.2,Salaried
+1552,Regular,842,Ad-hoc,58.6,Kutcha,3,2.5,Agriculture
+1553,Regular,980,Weekly,28.3,Pucca,8,1.3,Business
+1554,Irregular,1062,Monthly,21.3,Pucca,10,2.0,Business
+1555,Irregular,827,Ad-hoc,35.6,Semi-pucca,7,2.0,Agriculture
+1556,Regular,764,Ad-hoc,57.3,Semi-pucca,4,1.7,Daily Wage
+1557,Regular,1064,Weekly,16.4,Pucca,9,1.3,Business
+1558,Regular,1148,Monthly,41.4,Pucca,4,1.0,Daily Wage
+1559,Irregular,1017,Weekly,29.3,Pucca,7,1.5,Salaried
+1560,Irregular,858,Bi-weekly,24.2,Pucca,7,1.5,Salaried
+1561,Regular,1211,Weekly,2.7,Semi-pucca,10,1.3,Salaried
+1562,Irregular,1055,Ad-hoc,33.1,Semi-pucca,10,1.7,Daily Wage
+1563,Irregular,1048,Ad-hoc,40.3,Kutcha,7,1.5,Daily Wage
+1564,Irregular,910,Ad-hoc,49.0,Pucca,3,2.0,Agriculture
+1565,Regular,834,Ad-hoc,41.0,Pucca,5,1.5,Business
+1566,Regular,1065,Monthly,23.2,Pucca,8,2.0,Salaried
+1567,Regular,1151,Weekly,13.8,Pucca,9,1.0,Salaried
+1568,Regular,1444,Bi-weekly,3.1,Pucca,9,1.3,Pension
+1569,Irregular,952,Bi-weekly,42.1,Semi-pucca,6,1.5,Agriculture
+1570,Irregular,971,Monthly,33.2,Pucca,5,1.0,Agriculture
+1571,Regular,1020,Weekly,26.1,Pucca,6,1.7,Business
+1572,Regular,1177,Bi-weekly,13.6,Semi-pucca,9,1.3,Salaried
+1573,Regular,1336,Bi-weekly,5.9,Pucca,8,1.3,Business
+1574,Irregular,926,Ad-hoc,60.1,Pucca,5,3.0,Agriculture
+1575,Regular,829,Ad-hoc,54.3,Pucca,3,1.3,Agriculture
+1576,Regular,660,Ad-hoc,63.0,Semi-pucca,6,3.0,Daily Wage
+1577,Regular,699,Monthly,58.4,Pucca,3,2.3,Agriculture
+1578,Regular,1349,Bi-weekly,26.2,Pucca,7,1.3,Business
+1579,Regular,1364,Bi-weekly,13.7,Pucca,9,1.2,Salaried
+1580,Regular,1303,Bi-weekly,21.2,Semi-pucca,7,1.4,Business
+1581,Regular,1346,Monthly,14.4,Semi-pucca,9,1.5,Business
+1582,Regular,1211,Weekly,16.5,Pucca,9,1.2,Salaried
+1583,Irregular,1181,Ad-hoc,35.1,Pucca,8,1.5,Daily Wage
+1584,Regular,1058,Bi-weekly,12.4,Pucca,10,1.0,Salaried
+1585,Regular,1286,Bi-weekly,30.0,Semi-pucca,7,1.4,Daily Wage
+1586,Regular,1406,Weekly,8.8,Pucca,9,1.5,Business
+1587,Regular,1158,Bi-weekly,28.1,Pucca,10,1.0,Salaried
+1588,Irregular,1004,Weekly,26.3,Pucca,9,2.0,Salaried
+1589,Regular,901,Monthly,57.2,Pucca,3,4.0,Daily Wage
+1590,Regular,1452,Bi-weekly,9.8,Semi-pucca,9,1.2,Salaried
+1591,Irregular,1102,Bi-weekly,18.1,Pucca,8,1.2,Salaried
+1592,Regular,1094,Bi-weekly,19.2,Pucca,8,1.3,Salaried
+1593,Irregular,773,Ad-hoc,43.8,Semi-pucca,4,2.0,Agriculture
+1594,Regular,1172,Weekly,27.7,Pucca,7,1.3,Salaried
+1595,Irregular,990,Ad-hoc,36.0,Kutcha,9,1.5,Agriculture
+1596,Regular,1369,Bi-weekly,29.8,Semi-pucca,8,1.7,Salaried
+1597,Irregular,1063,Weekly,11.0,Pucca,6,1.3,Salaried
+1598,Regular,1111,Monthly,15.2,Pucca,10,1.3,Business
+1599,Irregular,972,Ad-hoc,39.0,Semi-pucca,7,1.8,Daily Wage
+1600,Defaulted,1128,Monthly,33.1,Semi-pucca,6,1.6,Daily Wage
+1601,Regular,1265,Bi-weekly,20.1,Pucca,9,1.3,Salaried
+1602,Regular,1357,Bi-weekly,4.9,Pucca,8,1.0,Business
+1603,Regular,1313,Weekly,12.3,Pucca,8,1.4,Salaried
+1604,Irregular,1048,Ad-hoc,33.5,Semi-pucca,8,1.7,Business
+1605,Regular,1393,Bi-weekly,14.0,Pucca,8,1.3,Business
+1606,Regular,685,Ad-hoc,57.9,Semi-pucca,2,1.4,Daily Wage
+1607,Defaulted,521,Ad-hoc,74.2,Semi-pucca,3,2.7,Daily Wage
+1608,Regular,1243,Weekly,23.0,Semi-pucca,8,1.3,Salaried
+1609,Irregular,1163,Monthly,41.5,Pucca,7,1.7,Daily Wage
+1610,Irregular,945,Ad-hoc,33.3,Semi-pucca,7,1.3,Daily Wage
+1611,Regular,964,Ad-hoc,42.7,Semi-pucca,5,2.0,Daily Wage
+1612,Irregular,620,Bi-weekly,66.1,Semi-pucca,5,1.7,Daily Wage
+1613,Regular,1155,Weekly,29.3,Semi-pucca,7,1.7,Business
+1614,Irregular,1155,Bi-weekly,1.3,Pucca,9,1.3,Pension
+1615,Regular,980,Ad-hoc,33.7,Semi-pucca,8,3.0,Agriculture
+1616,Irregular,750,Ad-hoc,51.7,Pucca,5,1.8,Daily Wage
+1617,Regular,1289,Bi-weekly,5.7,Pucca,9,1.3,Business
+1618,Irregular,376,Bi-weekly,60.7,Semi-pucca,4,2.0,Daily Wage
+1619,Irregular,975,Monthly,64.4,Semi-pucca,2,2.0,Agriculture
+1620,Regular,566,Monthly,44.0,Semi-pucca,5,1.3,Daily Wage
+1621,Regular,1379,Bi-weekly,7.9,Pucca,9,1.2,Business
+1622,Regular,928,Weekly,26.4,Pucca,7,1.8,Salaried
+1623,Regular,1066,Bi-weekly,14.5,Pucca,10,1.7,Salaried
+1624,Irregular,1040,Ad-hoc,34.5,Pucca,7,1.5,Daily Wage
+1625,Regular,1364,Monthly,12.1,Pucca,10,1.5,Pension
+1626,Defaulted,679,Ad-hoc,51.8,Semi-pucca,5,2.0,Daily Wage
+1627,Regular,992,Monthly,22.9,Semi-pucca,9,1.5,Salaried
+1628,Regular,986,Bi-weekly,21.2,Pucca,8,1.3,Salaried
+1629,Irregular,1214,Bi-weekly,19.6,Kutcha,8,1.5,Business
+1630,Irregular,1052,Bi-weekly,18.2,Pucca,8,1.3,Salaried
+1631,Regular,1302,Monthly,25.2,Semi-pucca,6,1.6,Salaried
+1632,Regular,1193,Monthly,4.1,Semi-pucca,10,1.0,Business
+1633,Irregular,1082,Monthly,35.8,Semi-pucca,6,1.5,Daily Wage
+1634,Regular,1445,Weekly,15.6,Pucca,8,1.3,Salaried
+1635,Regular,943,Monthly,42.4,Pucca,7,1.8,Business
+1636,Irregular,657,Ad-hoc,44.7,Pucca,4,2.0,Daily Wage
+1637,Irregular,966,Ad-hoc,44.5,Semi-pucca,5,1.8,Agriculture
+1638,Regular,981,Ad-hoc,35.0,Pucca,8,2.0,Agriculture
+1639,Defaulted,1046,Monthly,31.6,Semi-pucca,7,3.0,Agriculture
+1640,Irregular,1074,Monthly,49.8,Pucca,5,3.0,Daily Wage
+1641,Irregular,1018,Ad-hoc,35.3,Kutcha,7,1.5,Agriculture
+1642,Irregular,1088,Monthly,34.9,Pucca,7,1.5,Agriculture
+1643,Regular,869,Monthly,39.8,Pucca,4,2.0,Daily Wage
+1644,Defaulted,708,Ad-hoc,59.2,Pucca,4,4.0,Daily Wage
+1645,Regular,838,Bi-weekly,65.4,Semi-pucca,5,3.0,Daily Wage
+1646,Regular,1344,Weekly,6.8,Pucca,9,1.5,Business
+1647,Irregular,948,Monthly,44.7,Semi-pucca,5,1.8,Agriculture
+1648,Regular,1412,Weekly,11.6,Pucca,8,1.7,Business
+1649,Regular,1318,Bi-weekly,28.1,Pucca,7,1.5,Salaried
+1650,Regular,1106,Weekly,12.0,Semi-pucca,8,1.4,Salaried
+1651,Regular,1112,Bi-weekly,19.9,Pucca,9,1.7,Salaried
+1652,Regular,1526,Weekly,7.0,Semi-pucca,10,2.0,Salaried
+1653,Irregular,1178,Ad-hoc,45.5,Kutcha,6,2.0,Business
+1654,Irregular,945,Monthly,38.0,Pucca,5,1.5,Daily Wage
+1655,Regular,709,Monthly,66.2,Semi-pucca,3,2.5,Agriculture
+1656,Regular,964,Monthly,44.1,Pucca,5,1.7,Business
+1657,Regular,1356,Weekly,6.9,Semi-pucca,10,1.4,Salaried
+1658,Irregular,874,Monthly,51.0,Semi-pucca,4,2.0,Daily Wage
+1659,Regular,1426,Bi-weekly,14.9,Pucca,10,1.5,Salaried
+1660,Irregular,801,Ad-hoc,31.5,Semi-pucca,8,1.3,Daily Wage
+1661,Regular,1194,Monthly,10.4,Pucca,8,1.5,Salaried
+1662,Irregular,837,Ad-hoc,59.3,Kutcha,3,2.5,Agriculture
+1663,Regular,1166,Weekly,14.9,Semi-pucca,8,1.0,Salaried
+1664,Irregular,1249,Bi-weekly,17.3,Pucca,10,1.7,Salaried
+1665,Regular,958,Bi-weekly,54.0,Kutcha,4,1.8,Daily Wage
+1666,Regular,1396,Bi-weekly,20.6,Semi-pucca,10,1.4,Salaried
+1667,Defaulted,828,Monthly,55.5,Pucca,3,3.0,Agriculture
+1668,Regular,1317,Bi-weekly,26.5,Pucca,6,1.5,Salaried
+1669,Regular,1191,Monthly,20.8,Pucca,7,3.0,Business
+1670,Regular,1298,Weekly,5.4,Pucca,8,1.5,Business
+1671,Regular,694,Monthly,44.5,Kutcha,5,2.0,Daily Wage
+1672,Irregular,579,Ad-hoc,61.8,Pucca,3,2.5,Daily Wage
+1673,Defaulted,1061,Bi-weekly,30.8,Pucca,6,1.3,Agriculture
+1674,Irregular,721,Ad-hoc,62.0,Semi-pucca,5,2.0,Daily Wage
+1675,Regular,1257,Weekly,15.9,Pucca,10,2.0,Salaried
+1676,Irregular,1256,Bi-weekly,36.5,Kutcha,7,2.0,Daily Wage
+1677,Regular,1287,Bi-weekly,19.8,Semi-pucca,9,1.0,Salaried
+1678,Irregular,889,Monthly,56.6,Semi-pucca,4,2.0,Business
+1679,Regular,1421,Weekly,21.3,Pucca,7,2.0,Salaried
+1680,Irregular,1000,Ad-hoc,31.8,Pucca,6,1.3,Daily Wage
+1681,Irregular,829,Ad-hoc,45.4,Pucca,6,2.0,Daily Wage
+1682,Defaulted,971,Ad-hoc,54.5,Pucca,3,1.5,Business
+1683,Regular,797,Ad-hoc,61.0,Semi-pucca,3,2.0,Daily Wage
+1684,Regular,1334,Weekly,5.4,Kutcha,10,1.3,Salaried
+1685,Regular,886,Monthly,45.9,Semi-pucca,8,2.0,Daily Wage
+1686,Regular,1068,Weekly,28.0,Semi-pucca,8,1.8,Salaried
+1687,Irregular,1047,Ad-hoc,30.7,Pucca,8,1.5,Agriculture
+1688,Irregular,1040,Bi-weekly,32.6,Pucca,6,1.5,Agriculture
+1689,Regular,1240,Weekly,10.7,Semi-pucca,7,1.8,Business
+1690,Regular,1062,Ad-hoc,37.7,Semi-pucca,7,1.8,Agriculture
+1691,Irregular,1324,Monthly,16.4,Semi-pucca,9,1.3,Business
+1692,Regular,1218,Bi-weekly,9.3,Pucca,9,1.2,Salaried
+1693,Irregular,1054,Bi-weekly,42.9,Pucca,5,1.5,Agriculture
+1694,Irregular,738,Ad-hoc,43.9,Kutcha,7,1.3,Daily Wage
+1695,Irregular,930,Monthly,49.1,Semi-pucca,4,2.0,Agriculture
+1696,Irregular,1220,Bi-weekly,23.4,Semi-pucca,7,1.5,Salaried
+1697,Irregular,742,Bi-weekly,58.7,Kutcha,3,2.0,Daily Wage
+1698,Regular,1107,Weekly,27.4,Pucca,7,2.0,Salaried
+1699,Irregular,780,Monthly,53.4,Semi-pucca,3,2.0,Agriculture
+1700,Irregular,781,Bi-weekly,49.8,Pucca,4,1.7,Daily Wage
+1701,Regular,1184,Bi-weekly,19.6,Pucca,7,1.4,Business
+1702,Irregular,1095,Bi-weekly,20.7,Semi-pucca,8,1.2,Business
+1703,Regular,1219,Ad-hoc,30.9,Pucca,5,1.7,Daily Wage
+1704,Irregular,394,Monthly,64.6,Semi-pucca,4,2.3,Agriculture
+1705,Regular,1138,Monthly,22.0,Semi-pucca,9,1.0,Business
+1706,Irregular,772,Bi-weekly,32.8,Pucca,7,3.0,Agriculture
+1707,Irregular,885,Monthly,33.3,Kutcha,9,1.5,Agriculture
+1708,Regular,1083,Bi-weekly,21.4,Pucca,9,1.5,Business
+1709,Regular,957,Bi-weekly,57.3,Kutcha,5,2.5,Business
+1710,Regular,1335,Weekly,20.5,Pucca,8,1.6,Business
+1711,Regular,1034,Monthly,34.1,Pucca,7,2.0,Agriculture
+1712,Defaulted,1002,Ad-hoc,37.0,Semi-pucca,7,1.8,Agriculture
+1713,Regular,1054,Ad-hoc,44.6,Pucca,5,1.5,Daily Wage
+1714,Regular,1195,Monthly,33.0,Kutcha,4,1.7,Daily Wage
+1715,Regular,1132,Weekly,17.0,Pucca,9,1.3,Salaried
+1716,Irregular,874,Bi-weekly,56.3,Semi-pucca,3,2.0,Daily Wage
+1717,Regular,1254,Weekly,1.0,Pucca,9,1.2,Salaried
+1718,Regular,1070,Weekly,25.0,Pucca,8,1.5,Business
+1719,Regular,1173,Weekly,28.2,Pucca,7,1.0,Business
+1720,Regular,865,Ad-hoc,40.3,Semi-pucca,4,1.4,Daily Wage
+1721,Regular,1135,Bi-weekly,19.5,Pucca,8,1.7,Salaried
+1722,Irregular,728,Monthly,39.9,Pucca,7,2.0,Daily Wage
+1723,Irregular,1110,Ad-hoc,32.1,Semi-pucca,5,1.5,Daily Wage
+1724,Irregular,837,Ad-hoc,39.9,Pucca,8,1.5,Daily Wage
+1725,Irregular,791,Monthly,44.9,Semi-pucca,4,1.3,Daily Wage
+1726,Defaulted,1173,Bi-weekly,37.9,Semi-pucca,9,2.0,Agriculture
+1727,Regular,792,Ad-hoc,46.5,Pucca,5,2.0,Daily Wage
+1728,Irregular,1125,Ad-hoc,34.5,Kutcha,7,1.8,Agriculture
+1729,Regular,1372,Weekly,16.5,Pucca,6,1.0,Business
+1730,Regular,1378,Bi-weekly,13.7,Pucca,9,2.0,Salaried
+1731,Irregular,961,Monthly,36.7,Pucca,7,1.4,Daily Wage
+1732,Regular,1178,Bi-weekly,14.7,Pucca,8,2.0,Salaried
+1733,Regular,1228,Bi-weekly,4.0,Pucca,9,1.2,Salaried
+1734,Irregular,496,Monthly,59.7,Semi-pucca,3,2.3,Agriculture
+1735,Irregular,800,Ad-hoc,64.3,Pucca,5,2.5,Daily Wage
+1736,Regular,1334,Bi-weekly,14.5,Pucca,9,1.7,Salaried
+1737,Regular,1230,Weekly,21.5,Semi-pucca,10,1.7,Business
+1738,Regular,817,Weekly,16.8,Pucca,8,1.5,Salaried
+1739,Regular,980,Monthly,35.9,Kutcha,6,2.0,Daily Wage
+1740,Regular,1310,Weekly,16.1,Pucca,9,1.3,Business
+1741,Regular,1362,Weekly,19.8,Semi-pucca,6,1.2,Salaried
+1742,Irregular,976,Ad-hoc,42.3,Pucca,4,1.8,Daily Wage
+1743,Irregular,1315,Weekly,10.2,Pucca,10,1.7,Salaried
+1744,Regular,970,Ad-hoc,30.4,Pucca,6,1.3,Daily Wage
+1745,Regular,1350,Bi-weekly,9.3,Pucca,7,1.3,Salaried
+1746,Regular,1215,Weekly,13.8,Pucca,10,1.3,Business
+1747,Regular,1208,Bi-weekly,8.1,Pucca,8,1.4,Salaried
+1748,Regular,947,Monthly,26.4,Pucca,8,1.4,Business
+1749,Regular,937,Weekly,30.0,Pucca,7,1.5,Business
+1750,Regular,1414,Monthly,2.8,Pucca,6,1.0,Salaried
+1751,Regular,930,Bi-weekly,25.0,Semi-pucca,7,1.2,Salaried
+1752,Defaulted,1271,Bi-weekly,7.9,Pucca,10,1.5,Salaried
+1753,Regular,863,Bi-weekly,65.4,Semi-pucca,4,2.5,Daily Wage
+1754,Regular,703,Ad-hoc,45.1,Semi-pucca,7,2.0,Agriculture
+1755,Regular,1097,Monthly,33.2,Semi-pucca,6,1.7,Daily Wage
+1756,Regular,970,Ad-hoc,46.0,Semi-pucca,6,2.0,Business
+1757,Irregular,1115,Bi-weekly,22.1,Semi-pucca,7,1.6,Salaried
+1758,Regular,1025,Ad-hoc,42.0,Pucca,4,1.5,Daily Wage
+1759,Regular,1217,Weekly,14.2,Pucca,7,1.0,Salaried
+1760,Regular,1229,Weekly,25.6,Pucca,6,1.5,Salaried
+1761,Regular,1110,Weekly,12.8,Pucca,10,1.4,Business
+1762,Irregular,835,Ad-hoc,75.3,Kutcha,1,1.7,Agriculture
+1763,Regular,1559,Weekly,3.8,Semi-pucca,10,1.2,Business
+1764,Regular,995,Weekly,8.4,Pucca,9,1.5,Salaried
+1765,Irregular,1402,Weekly,14.7,Pucca,8,1.4,Business
+1766,Irregular,744,Ad-hoc,52.2,Semi-pucca,6,1.7,Agriculture
+1767,Regular,1335,Bi-weekly,24.1,Pucca,7,1.7,Salaried
+1768,Regular,1361,Monthly,16.3,Pucca,9,1.6,Salaried
+1769,Irregular,814,Ad-hoc,39.4,Semi-pucca,6,1.5,Daily Wage
+1770,Regular,675,Ad-hoc,73.1,Kutcha,3,2.5,Daily Wage
+1771,Irregular,1084,Weekly,19.8,Pucca,10,1.0,Salaried
+1772,Irregular,1008,Monthly,42.4,Pucca,4,1.7,Agriculture
+1773,Regular,907,Bi-weekly,45.3,Semi-pucca,7,1.6,Daily Wage
+1774,Regular,1120,Bi-weekly,16.1,Pucca,9,1.2,Salaried
+1775,Defaulted,1120,Bi-weekly,8.4,Semi-pucca,9,1.5,Salaried
+1776,Regular,1241,Weekly,17.3,Pucca,10,1.5,Salaried
+1777,Regular,1081,Bi-weekly,34.9,Semi-pucca,4,2.0,Business
+1778,Regular,1081,Bi-weekly,26.9,Semi-pucca,7,1.5,Salaried
+1779,Regular,1050,Weekly,21.9,Semi-pucca,6,1.4,Salaried
+1780,Regular,1180,Bi-weekly,13.8,Pucca,9,1.5,Salaried
+1781,Regular,1085,Weekly,14.7,Pucca,7,1.0,Business
+1782,Defaulted,1127,Ad-hoc,34.1,Semi-pucca,7,2.0,Agriculture
+1783,Irregular,848,Bi-weekly,22.7,Pucca,8,1.4,Business
+1784,Regular,1260,Bi-weekly,24.8,Pucca,7,1.5,Salaried
+1785,Regular,1376,Weekly,1.1,Semi-pucca,10,1.3,Salaried
+1786,Regular,1275,Weekly,18.0,Pucca,8,1.4,Business
+1787,Irregular,916,Ad-hoc,51.8,Pucca,4,2.0,Daily Wage
+1788,Irregular,873,Ad-hoc,49.4,Pucca,8,2.0,Agriculture
+1789,Irregular,830,Ad-hoc,46.8,Semi-pucca,5,1.5,Daily Wage
+1790,Defaulted,1065,Ad-hoc,44.5,Semi-pucca,3,2.5,Daily Wage
+1791,Regular,852,Weekly,27.9,Pucca,6,1.4,Business
+1792,Regular,1076,Ad-hoc,46.0,Pucca,4,1.5,Daily Wage
+1793,Regular,1058,Bi-weekly,16.8,Pucca,9,1.5,Business
+1794,Regular,815,Ad-hoc,49.0,Semi-pucca,5,1.7,Daily Wage
+1795,Regular,1390,Monthly,19.1,Pucca,9,1.3,Salaried
+1796,Regular,1240,Bi-weekly,42.8,Kutcha,5,1.5,Daily Wage
+1797,Defaulted,1002,Ad-hoc,38.4,Pucca,6,1.2,Daily Wage
+1798,Regular,938,Monthly,24.7,Kutcha,7,1.5,Salaried
+1799,Regular,1489,Weekly,2.8,Pucca,10,1.5,Salaried
+1800,Irregular,767,Bi-weekly,57.0,Semi-pucca,5,2.0,Agriculture
+1801,Irregular,852,Ad-hoc,36.3,Pucca,7,1.4,Daily Wage
+1802,Regular,1131,Weekly,27.2,Pucca,8,1.0,Salaried
+1803,Regular,863,Ad-hoc,32.1,Semi-pucca,7,1.7,Business
+1804,Regular,1351,Weekly,6.8,Semi-pucca,10,1.0,Salaried
+1805,Regular,1111,Bi-weekly,14.5,Pucca,9,1.5,Salaried
+1806,Irregular,586,Monthly,48.9,Semi-pucca,6,1.5,Agriculture
+1807,Regular,539,Monthly,57.1,Semi-pucca,6,2.0,Daily Wage
+1808,Regular,1180,Monthly,12.2,Semi-pucca,8,1.2,Business
+1809,Defaulted,1118,Ad-hoc,32.0,Pucca,6,1.5,Daily Wage
+1810,Regular,1260,Weekly,28.6,Pucca,6,1.5,Business
+1811,Irregular,1131,Monthly,42.5,Semi-pucca,6,1.3,Daily Wage
+1812,Regular,956,Bi-weekly,21.1,Pucca,6,2.0,Salaried
+1813,Regular,915,Ad-hoc,41.2,Kutcha,6,1.5,Agriculture
+1814,Regular,820,Ad-hoc,44.9,Pucca,5,1.6,Daily Wage
+1815,Regular,1090,Bi-weekly,26.8,Pucca,9,1.2,Salaried
+1816,Defaulted,1138,Monthly,41.8,Semi-pucca,5,2.0,Agriculture
+1817,Regular,1257,Monthly,15.0,Pucca,8,1.2,Salaried
+1818,Regular,1002,Ad-hoc,47.2,Pucca,7,2.0,Daily Wage
+1819,Regular,1611,Bi-weekly,8.9,Pucca,10,1.3,Salaried
+1820,Irregular,666,Ad-hoc,46.8,Kutcha,5,2.0,Daily Wage
+1821,Defaulted,817,Ad-hoc,46.9,Pucca,6,2.0,Daily Wage
+1822,Irregular,1096,Ad-hoc,34.8,Semi-pucca,7,1.5,Agriculture
+1823,Regular,1146,Bi-weekly,26.4,Semi-pucca,8,1.5,Salaried
+1824,Regular,1344,Monthly,18.4,Pucca,8,1.3,Business
+1825,Irregular,894,Ad-hoc,41.1,Kutcha,7,1.3,Business
+1826,Regular,1363,Bi-weekly,6.0,Semi-pucca,7,1.2,Business
+1827,Regular,1094,Monthly,18.2,Pucca,8,1.5,Salaried
+1828,Regular,1136,Monthly,37.5,Semi-pucca,7,1.4,Business
+1829,Irregular,1195,Weekly,19.1,Pucca,9,1.5,Business
+1830,Regular,1363,Bi-weekly,21.2,Pucca,10,1.5,Business
+1831,Regular,1274,Monthly,29.4,Semi-pucca,8,2.0,Business
+1832,Regular,915,Weekly,27.7,Pucca,7,1.2,Salaried
+1833,Regular,1524,Weekly,8.6,Pucca,10,1.2,Salaried
+1834,Regular,1273,Weekly,23.4,Pucca,7,1.4,Salaried
+1835,Regular,1012,Monthly,33.2,Pucca,8,1.8,Agriculture
+1836,Irregular,1043,Monthly,43.1,Pucca,8,1.5,Daily Wage
+1837,Regular,734,Ad-hoc,54.1,Kutcha,6,1.7,Daily Wage
+1838,Irregular,1191,Ad-hoc,36.2,Semi-pucca,7,1.8,Daily Wage
+1839,Regular,1380,Bi-weekly,3.1,Pucca,9,1.2,Salaried
+1840,Irregular,775,Monthly,68.1,Kutcha,1,1.0,Agriculture
+1841,Regular,898,Ad-hoc,37.6,Kutcha,7,1.5,Agriculture
+1842,Regular,1206,Bi-weekly,21.2,Pucca,7,1.2,Salaried
+1843,Regular,1261,Weekly,23.8,Semi-pucca,7,1.2,Salaried
+1844,Regular,1062,Monthly,34.6,Pucca,5,1.8,Daily Wage
+1845,Regular,1328,Bi-weekly,13.7,Semi-pucca,8,1.2,Salaried
+1846,Regular,1159,Bi-weekly,12.2,Pucca,9,1.3,Pension
+1847,Defaulted,1156,Bi-weekly,26.0,Pucca,8,1.5,Salaried
+1848,Irregular,540,Bi-weekly,68.5,Kutcha,2,2.5,Daily Wage
+1849,Irregular,953,Ad-hoc,40.4,Semi-pucca,7,1.3,Daily Wage
+1850,Regular,1192,Weekly,12.6,Pucca,8,1.3,Salaried
+1851,Regular,1356,Bi-weekly,1.4,Pucca,9,1.3,Business
+1852,Regular,1026,Bi-weekly,11.7,Pucca,9,1.5,Business
+1853,Irregular,1037,Monthly,33.3,Pucca,9,3.0,Daily Wage
+1854,Regular,1156,Weekly,20.8,Semi-pucca,8,1.7,Salaried
+1855,Irregular,682,Bi-weekly,45.9,Semi-pucca,5,1.5,Agriculture
+1856,Regular,1292,Weekly,14.1,Semi-pucca,7,1.2,Business
+1857,Defaulted,1236,Weekly,25.4,Pucca,7,1.3,Business
+1858,Regular,886,Ad-hoc,50.7,Pucca,5,2.0,Agriculture
+1859,Regular,1358,Bi-weekly,13.8,Pucca,8,1.0,Salaried
+1860,Regular,1128,Bi-weekly,18.0,Pucca,6,1.5,Business
+1861,Irregular,1099,Bi-weekly,24.6,Kutcha,7,1.2,Salaried
+1862,Irregular,1062,Ad-hoc,31.7,Pucca,9,1.7,Daily Wage
+1863,Regular,1130,Monthly,26.3,Semi-pucca,9,1.5,Salaried
+1864,Regular,1002,Weekly,6.2,Semi-pucca,8,1.2,Salaried
+1865,Irregular,1123,Bi-weekly,13.4,Pucca,9,1.0,Salaried
+1866,Regular,1298,Weekly,22.0,Semi-pucca,6,1.4,Salaried
+1867,Regular,1063,Weekly,20.7,Pucca,10,1.5,Salaried
+1868,Irregular,828,Ad-hoc,48.8,Kutcha,5,2.0,Daily Wage
+1869,Defaulted,759,Monthly,57.6,Semi-pucca,5,1.8,Daily Wage
+1870,Irregular,651,Ad-hoc,51.0,Pucca,3,1.5,Daily Wage
+1871,Defaulted,1485,Weekly,12.3,Semi-pucca,10,1.3,Salaried
+1872,Regular,808,Bi-weekly,53.4,Semi-pucca,5,2.0,Agriculture
+1873,Irregular,950,Ad-hoc,30.0,Pucca,8,1.8,Agriculture
+1874,Regular,1267,Weekly,20.3,Pucca,9,1.2,Business
+1875,Regular,1071,Weekly,26.1,Pucca,7,1.4,Salaried
+1876,Irregular,1024,Monthly,34.9,Semi-pucca,6,1.3,Agriculture
+1877,Defaulted,997,Ad-hoc,54.5,Kutcha,5,1.5,Agriculture
+1878,Irregular,872,Monthly,41.1,Pucca,6,1.5,Agriculture
+1879,Regular,1530,Bi-weekly,2.7,Pucca,9,1.2,Salaried
+1880,Irregular,709,Ad-hoc,58.5,Pucca,3,1.7,Daily Wage
+1881,Regular,1356,Bi-weekly,4.8,Pucca,8,1.2,Business
+1882,Regular,1044,Ad-hoc,36.2,Semi-pucca,6,2.0,Daily Wage
+1883,Irregular,862,Monthly,44.5,Semi-pucca,7,2.0,Business
+1884,Regular,800,Ad-hoc,41.6,Kutcha,6,2.0,Business
+1885,Regular,1366,Bi-weekly,8.8,Pucca,8,1.2,Salaried
+1886,Irregular,1038,Monthly,47.2,Pucca,6,2.0,Agriculture
+1887,Irregular,1117,Monthly,33.7,Kutcha,6,1.0,Daily Wage
+1888,Regular,1269,Monthly,19.5,Semi-pucca,8,1.5,Salaried
+1889,Regular,1169,Bi-weekly,15.1,Pucca,8,1.2,Salaried
+1890,Irregular,1121,Ad-hoc,34.0,Semi-pucca,8,3.0,Agriculture
+1891,Regular,1055,Ad-hoc,35.9,Kutcha,5,2.0,Daily Wage
+1892,Regular,1427,Bi-weekly,8.5,Semi-pucca,8,1.5,Salaried
+1893,Irregular,1006,Bi-weekly,37.0,Pucca,4,1.2,Agriculture
+1894,Irregular,990,Monthly,44.8,Semi-pucca,5,1.3,Daily Wage
+1895,Irregular,1247,Bi-weekly,7.7,Pucca,10,1.2,Business
+1896,Irregular,1038,Bi-weekly,41.7,Pucca,5,1.8,Daily Wage
+1897,Regular,713,Monthly,46.4,Semi-pucca,5,2.0,Daily Wage
+1898,Regular,1134,Bi-weekly,19.9,Pucca,9,1.2,Salaried
+1899,Regular,598,Bi-weekly,64.0,Pucca,5,2.5,Agriculture
+1900,Regular,1720,Weekly,15.5,Pucca,8,1.7,Salaried
+1901,Regular,1264,Bi-weekly,20.6,Pucca,9,1.5,Salaried
+1902,Regular,1076,Bi-weekly,15.6,Semi-pucca,7,1.3,Business
+1903,Regular,560,Bi-weekly,58.9,Kutcha,6,2.0,Daily Wage
+1904,Regular,898,Bi-weekly,23.4,Pucca,10,2.0,Business
+1905,Regular,1005,Bi-weekly,21.3,Pucca,8,1.5,Business
+1906,Regular,1139,Weekly,12.9,Semi-pucca,6,1.3,Salaried
+1907,Irregular,673,Monthly,53.6,Pucca,4,2.5,Agriculture
+1908,Irregular,1161,Weekly,15.7,Semi-pucca,9,1.5,Salaried
+1909,Regular,1326,Bi-weekly,17.3,Semi-pucca,8,1.5,Salaried
+1910,Regular,1329,Bi-weekly,3.9,Pucca,10,1.2,Salaried
+1911,Regular,1320,Bi-weekly,16.3,Semi-pucca,9,1.3,Salaried
+1912,Regular,1158,Monthly,8.4,Semi-pucca,8,1.3,Salaried
+1913,Regular,1066,Weekly,25.5,Pucca,7,1.5,Salaried
+1914,Regular,826,Bi-weekly,40.2,Pucca,5,1.8,Agriculture
+1915,Regular,1254,Weekly,18.9,Pucca,8,1.0,Business
+1916,Regular,1146,Weekly,20.8,Pucca,7,2.0,Salaried
+1917,Irregular,1529,Bi-weekly,10.8,Pucca,10,1.2,Business
+1918,Defaulted,656,Ad-hoc,59.0,Semi-pucca,7,2.0,Daily Wage
+1919,Regular,675,Monthly,52.6,Pucca,3,1.7,Agriculture
+1920,Irregular,989,Bi-weekly,41.1,Kutcha,4,2.0,Agriculture
+1921,Irregular,943,Bi-weekly,39.2,Pucca,6,2.0,Agriculture
+1922,Regular,1347,Monthly,11.1,Pucca,7,1.3,Business
+1923,Defaulted,1009,Ad-hoc,34.7,Pucca,7,2.0,Daily Wage
+1924,Regular,1017,Ad-hoc,33.0,Pucca,8,1.0,Agriculture
+1925,Irregular,910,Monthly,36.0,Semi-pucca,8,1.5,Agriculture
+1926,Regular,1324,Weekly,3.4,Pucca,10,1.3,Pension
+1927,Regular,1006,Weekly,16.3,Pucca,8,1.5,Salaried
+1928,Regular,1450,Monthly,10.6,Semi-pucca,7,1.5,Business
+1929,Irregular,1407,Bi-weekly,15.5,Kutcha,8,1.2,Salaried
+1930,Regular,1319,Bi-weekly,19.3,Pucca,8,1.2,Salaried
+1931,Regular,1027,Bi-weekly,28.0,Pucca,8,1.7,Business
+1932,Irregular,925,Ad-hoc,35.1,Semi-pucca,6,1.6,Daily Wage
+1933,Regular,895,Monthly,52.2,Semi-pucca,4,1.7,Daily Wage
+1934,Regular,1116,Weekly,13.6,Pucca,7,1.6,Salaried
+1935,Irregular,1114,Ad-hoc,40.5,Kutcha,3,2.0,Daily Wage
+1936,Irregular,767,Weekly,27.2,Pucca,6,1.4,Business
+1937,Regular,1284,Weekly,4.7,Pucca,8,1.5,Salaried
+1938,Irregular,926,Bi-weekly,29.5,Pucca,7,1.4,Salaried
+1939,Irregular,1023,Ad-hoc,50.1,Kutcha,4,1.2,Daily Wage
+1940,Defaulted,1015,Ad-hoc,48.6,Semi-pucca,4,2.0,Agriculture
+1941,Regular,1237,Weekly,22.0,Pucca,7,1.7,Salaried
+1942,Regular,1389,Weekly,25.4,Pucca,4,1.0,Business
+1943,Defaulted,962,Ad-hoc,39.9,Semi-pucca,8,2.0,Business
+1944,Irregular,1087,Ad-hoc,36.4,Pucca,5,2.0,Daily Wage
+1945,Defaulted,841,Ad-hoc,30.4,Semi-pucca,6,1.8,Daily Wage
+1946,Regular,1148,Monthly,18.8,Semi-pucca,6,1.5,Business
+1947,Defaulted,918,Ad-hoc,45.2,Semi-pucca,7,2.0,Daily Wage
+1948,Regular,1072,Weekly,18.1,Kutcha,8,2.0,Business
+1949,Regular,947,Bi-weekly,44.4,Pucca,5,2.0,Daily Wage
+1950,Regular,1001,Weekly,11.2,Semi-pucca,8,1.5,Salaried
+1951,Regular,1056,Ad-hoc,37.6,Semi-pucca,8,2.0,Daily Wage
+1952,Irregular,1221,Weekly,10.7,Pucca,9,1.2,Business
+1953,Irregular,818,Ad-hoc,42.8,Semi-pucca,6,3.0,Daily Wage
+1954,Defaulted,923,Ad-hoc,52.8,Pucca,4,2.0,Agriculture
+1955,Regular,1304,Weekly,27.4,Semi-pucca,5,1.0,Salaried
+1956,Defaulted,1119,Ad-hoc,36.8,Semi-pucca,6,1.7,Daily Wage
+1957,Irregular,734,Ad-hoc,50.2,Pucca,5,2.0,Business
+1958,Regular,972,Ad-hoc,47.3,Semi-pucca,7,2.0,Daily Wage
+1959,Regular,1193,Monthly,15.5,Pucca,6,1.3,Salaried
+1960,Defaulted,1312,Weekly,22.3,Pucca,6,1.3,Salaried
+1961,Regular,812,Monthly,56.3,Pucca,4,2.0,Daily Wage
+1962,Regular,906,Weekly,26.1,Pucca,7,1.5,Salaried
+1963,Regular,964,Ad-hoc,36.5,Semi-pucca,6,1.7,Daily Wage
+1964,Regular,1064,Bi-weekly,20.0,Semi-pucca,8,3.0,Business
+1965,Irregular,984,Monthly,27.9,Semi-pucca,8,1.6,Salaried
+1966,Irregular,711,Monthly,58.5,Semi-pucca,3,2.0,Daily Wage
+1967,Regular,1197,Bi-weekly,21.9,Semi-pucca,9,1.7,Business
+1968,Irregular,1226,Monthly,27.4,Pucca,8,2.0,Salaried
+1969,Regular,1067,Bi-weekly,23.6,Semi-pucca,7,1.0,Salaried
+1970,Irregular,1076,Bi-weekly,44.9,Pucca,7,1.5,Business
+1971,Regular,785,Ad-hoc,34.2,Pucca,8,1.5,Daily Wage
+1972,Irregular,1075,Weekly,18.9,Pucca,9,1.5,Business
+1973,Regular,1610,Weekly,7.0,Pucca,6,1.0,Salaried
+1974,Regular,924,Weekly,28.7,Semi-pucca,9,1.2,Salaried
+1975,Irregular,1109,Monthly,42.3,Kutcha,7,2.0,Agriculture
+1976,Regular,1116,Bi-weekly,25.4,Pucca,10,1.4,Salaried
+1977,Irregular,986,Monthly,36.7,Semi-pucca,8,2.5,Daily Wage
+1978,Regular,1232,Bi-weekly,27.1,Semi-pucca,9,1.5,Salaried
+1979,Regular,1069,Bi-weekly,40.1,Semi-pucca,7,1.8,Daily Wage
+1980,Irregular,1076,Bi-weekly,46.3,Pucca,7,2.5,Agriculture
+1981,Defaulted,1306,Weekly,5.3,Pucca,10,1.2,Salaried
+1982,Regular,1176,Weekly,22.2,Pucca,8,1.3,Pension
+1983,Regular,1115,Weekly,22.7,Pucca,6,1.5,Salaried
+1984,Regular,960,Bi-weekly,25.8,Pucca,7,1.4,Salaried
+1985,Regular,1270,Monthly,13.9,Pucca,9,1.0,Salaried
+1986,Irregular,1014,Monthly,33.0,Semi-pucca,7,1.5,Agriculture
+1987,Defaulted,950,Weekly,17.0,Pucca,7,1.2,Salaried
+1988,Irregular,1242,Weekly,28.5,Kutcha,5,1.5,Salaried
+1989,Regular,1145,Monthly,25.0,Semi-pucca,7,1.7,Business
+1990,Regular,1174,Bi-weekly,11.6,Semi-pucca,10,1.2,Business
+1991,Regular,1218,Bi-weekly,20.7,Pucca,10,3.0,Salaried
+1992,Irregular,886,Bi-weekly,40.0,Semi-pucca,7,2.0,Agriculture
+1993,Regular,1230,Weekly,17.9,Pucca,9,1.0,Salaried
+1994,Irregular,1217,Bi-weekly,34.3,Semi-pucca,6,1.5,Agriculture
+1995,Regular,1149,Monthly,27.8,Pucca,5,1.6,Salaried
+1996,Irregular,1274,Weekly,5.2,Pucca,9,1.2,Business
+1997,Regular,1187,Bi-weekly,6.2,Semi-pucca,9,1.0,Salaried
+1998,Regular,1174,Bi-weekly,11.4,Semi-pucca,8,1.6,Business
+1999,Irregular,1401,Bi-weekly,10.2,Pucca,9,1.2,Business
+2000,Defaulted,583,Ad-hoc,73.5,Kutcha,3,2.3,Daily Wage
